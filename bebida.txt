@@ -1,4 +1,4 @@
-+# Bebida para llevar por orden alfabético
+# Bebida para llevar por orden alfabético
 Amareto
 Agua
 Coca-cola
