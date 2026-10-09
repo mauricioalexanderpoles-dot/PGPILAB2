@@ -1,9 +1,12 @@
 # Comida para llevar por orden alfabético
+Aceitunas
 Chuleton
 Hamburgesas
 Huevos
 Lasaña
+Lentejas
 Patatas fritas
 Peperoni
 Pinchitos
 Salchicha
+包子
