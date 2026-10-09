@@ -1,4 +1,4 @@
-# Bebida para llevar por orden alfabético
++# Bebida para llevar por orden alfabético
 Agua
 Coca-cola
 Aquarius de naranja
@@ -6,6 +6,7 @@ Cerveza
 Coca-cola
 Horchata
 Limonada
+Litrona
 Ron Recompensa
 Zumo de piña
 
