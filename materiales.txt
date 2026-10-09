@@ -1,6 +1,6 @@
 # Materiales necesarios en orden afabético
 Carbon
+Nitrogeno
 Sillas
 Toldo
 Vasos
-Nitrogeno
