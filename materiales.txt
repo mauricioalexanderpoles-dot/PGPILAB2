@@ -5,6 +5,7 @@ Cuerdas
 Hielos
 Mesas
 Nevera
+Nitrogeno
 Servilletas
 Sillas
 Toldo
