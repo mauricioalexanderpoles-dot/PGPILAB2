@@ -1,4 +1,4 @@
-i# Bebida para llevar por orden alfabético
++# Bebida para llevar por orden alfabético
 Amareto
 Agua
 Coca-cola
@@ -7,8 +7,8 @@ Cerveza
 Coca-cola
 Horchata
 Limonada
+Litrona
 Piña colada
 Ron Recompensa
 Vodka
 Zumo de piña
-
