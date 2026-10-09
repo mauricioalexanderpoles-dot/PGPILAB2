@@ -1,8 +1,10 @@
 # Materiales necesarios en orden afabético
 Carbon
 Cuerdas
+Hielos
 Mesas
 Nevera
+Nitrogeno
 Servilletas
 Sillas
 Toldo
