@@ -1,5 +1,6 @@
 # Juegos propuestos en orden alfabético
 Cartas contra la Humanidad
+Jenga
 Magic: The Gathering
 Oca
 Monopoly
