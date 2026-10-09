@@ -1,6 +1,11 @@
 # Materiales necesarios en orden afabético
 Carbon
+Cuerdas
+Mesas
+Nevera
 Nitrogeno
+Servilletas
 Sillas
 Toldo
 Vasos
+

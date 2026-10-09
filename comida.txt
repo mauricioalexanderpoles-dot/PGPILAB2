@@ -1,6 +1,8 @@
 # Comida para llevar por orden alfabético
 Chuleton
 Hamburgesas
+Huevos
+Lasaña
 Patatas fritas
 Pinchitos
 Salchicha
