@@ -4,5 +4,6 @@ Jenga
 Magic: The Gathering
 Oca
 Monopoly
+Risk
 Uno
 
