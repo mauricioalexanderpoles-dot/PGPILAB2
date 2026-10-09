@@ -1,5 +1,6 @@
 # Materiales necesarios en orden afabético
 Carbon
+Hielos
 Mesas
 Nevera
 Servilletas
