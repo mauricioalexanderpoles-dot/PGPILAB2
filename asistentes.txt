@@ -1,5 +1,6 @@
 # Asistentes a la barbacoa por orden alfabético de apellido
 # Apellidos, Nombre
 Arquer de la Prada, Pelayo
+Cruz Ferrer, Tomás
 Luque Giráldez, José Rafael
-Cruz Ferrer, Tomas
+
