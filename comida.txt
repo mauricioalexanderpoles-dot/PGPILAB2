@@ -1,6 +1,7 @@
 # Comida para llevar por orden alfabético
 Aceitunas
 Chuleton
+Croquetas de puchero
 Hamburgesas
 Huevos
 Lasaña
