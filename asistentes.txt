@@ -1,6 +1,9 @@
 # Asistentes a la barbacoa por orden alfabético de apellido
 # Apellidos, Nombre
+Afan Saucedo, Manuel
 Arquer de la Prada, Pelayo
 Cruz Ferrer, Tomás
 Luque Giráldez, José Rafael
-
+Orts Arjona, Miguel Ángel
+Pérez Bazarot, Jesús
+Presencio de Olmedo, Antonio
