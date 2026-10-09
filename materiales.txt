@@ -4,6 +4,7 @@ Cucharas
 Cuerdas
 Hielos
 Madera
+Mantel
 Mesas
 Nevera
 Nitrogeno
