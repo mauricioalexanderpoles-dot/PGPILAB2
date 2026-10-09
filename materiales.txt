@@ -1,3 +1,7 @@
 # Materiales necesarios en orden afabético
-Sillas
+Carbon
 Mesas
+Sillas
+Toldo
+Vasos
+
