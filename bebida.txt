@@ -10,4 +10,5 @@ Limonada
 Litrona
 Piña colada
 Ron Recompensa
+Vodka
 Zumo de piña
