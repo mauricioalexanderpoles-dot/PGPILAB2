@@ -2,6 +2,7 @@
 Carbon
 Cucharas
 Cuerdas
+Hielos
 Mesas
 Nevera
 Servilletas
