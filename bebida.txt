@@ -6,5 +6,6 @@ Cerveza
 Coca-cola
 Horchata
 Limonada
+Ron Recompensa
 Zumo de piña
 
