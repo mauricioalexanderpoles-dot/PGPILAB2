@@ -3,6 +3,7 @@ Aceitunas
 Chuleton
 Hamburgesas
 Huevos
+Lasaña
 Patatas fritas
 Pinchitos
 Salchicha
