@@ -1,4 +1,3 @@
 # Asistentes a la barbacoa por orden alfabético de apellido
 # Apellidos, Nombre
 Luque Giráldez, José Rafael
-Afán Saucedo, Manuel
