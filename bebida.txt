@@ -1,6 +1,13 @@
-# Bebida para llevar por orden alfabético
-Aquarius de naranja
-Cruzcampo
+Amareto
+Agua
 Coca-cola
+Aquarius de naranja
+Cerveza
+Coca-cola
+Cruzcampo
+Horchata
 Limonada
+Litrona
+Piña colada
+Ron Recompensa
 Zumo de piña
