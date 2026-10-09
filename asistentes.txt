@@ -2,3 +2,4 @@
 # Apellidos, Nombre
 Arquer de la Prada, Pelayo
 Luque Giráldez, José Rafael
+Pérez Bazarot, Jesús
