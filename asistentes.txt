@@ -6,6 +6,7 @@ Cruz Ferrer, Tomás
 Dominguez Puntas, Jose Miguel
 Gonzalez Arroyo,Alberto
 Luque Giráldez, José Rafael
+Afán Saucedo, Manuel
 Martínez Benjumea, David
 Orts Arjona, Miguel Ángel
 Otero Jiménez, Alejandro
@@ -14,3 +15,4 @@ Polanco Espino, Mauricio Alexander
 Presencio de Olmedo, Antonio
 Rosello Mateo,Kevin Manuel
 Romero Molina, Marco
+Rubio Sánchez, Pablo
