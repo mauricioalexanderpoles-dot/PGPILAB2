@@ -1,0 +1,36 @@
+= Barbacoa en GitLab
+
+Organización de una barbacoa de forma colaborativa usando Git y GitLab.
+
+Proyecto de ejemplo para la asignatura *Planificación y Gestión de Proyectos
+Informáticos*.
+
+Los archivos de este proyecto están en formato https://asciidoctor.org/docs/what-is-asciidoc[Asciidoc] y pueden ser procesados mediante el paquete https://asciidoctor.org[Asciidoctor]. *Asciidoc* es un formato de marcas ligeros similar a *Markdown* pero mucho más potente y estandarizado.
+
+== Cómo usar
+
+=== Editar documentos
+
+*Asciidoc* es texto plano. Puede editarse con cualquier editor de texto. https://atom.io/[Atom] es un editor de texto avanzado con excelente soporte para Asciidoc a través del paquete https://github.com/asciidoctor/atom-asciidoc-assistant[asciidoc-assistant].
+
+Tienes toda la información sobre el formato en la página del proyecto https://asciidoctor.org[Asciidoctor].
+
+=== Procesar archivos
+
+Para procesar los archivos y generar un documento en HTML necesitas instalar el programa *asciidoctor*. Las instrucciones de instalación están en la página principal del proyecto https://asciidoctor.org[Asciidoctor].
+
+Para generar un documento *index.html* único con todo el contenido basta procesar el archivo *index.adoc*:
+
+    $ asciidoctor index.adoc
+
+Si instalalas https://asciidoctor.org/docs/asciidoctor-pdf/[asciidoctor-pdf] podrás generar un documento en formato PDF:
+
+    $ asciidoctor-pdf -o barbacoa.pdf index.adoc
+
+== Autores
+
+...
+
+== Licencia
+
+...

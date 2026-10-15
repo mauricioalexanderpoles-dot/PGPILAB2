@@ -1,0 +1,20 @@
+:lang: es
+:toc:
+:toc-title: Tabla de Contenidos
+:figure-caption: Figura
+:table-caption: Tabla
+:version-label: Versión
+
+= Proyecto Barbacoa PGPI
+
+include::asistentes.adoc[]
+
+include::materiales.adoc[]
+
+include::localizaciones.adoc[]
+
+include::comida.adoc[]
+
+include::bebida.adoc[]
+
+include::juegos.adoc[]

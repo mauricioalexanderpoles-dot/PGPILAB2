@@ -1,0 +1,12 @@
+== Lista de bebidas
+
+// Separadas en con/sin alcohol
+// Ordenadas por orden alfabético
+
+=== Con alcohol
+
+* Cerveza
+
+=== Sin alcohol
+
+* Cerveza sin

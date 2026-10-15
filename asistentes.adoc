@@ -1,0 +1,15 @@
+== ﻿Lista de asistentes
+
+// Ordenados por orden alfabético
+// Formato: Apellidos, Nombre
+
+* Luque Giráldez, José Rafael
+
+=== Organización del transporte
+
+// Si tienes vehículo, pon el número de plazas. Si no tienes, añádete a
+// alguno de los vehículos existentes.
+
+==== Peugeot 508 (5 plazas)
+
+* Rafael Luque
