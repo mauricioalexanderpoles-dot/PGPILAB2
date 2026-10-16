@@ -14,6 +14,7 @@
 
 // Si tienes vehículo, pon el número de plazas. Si no tienes, añádete a
 // alguno de los vehículos existentes.
+
 ==== Renault Clio (5 plazas)
 
 * Marco Romero
