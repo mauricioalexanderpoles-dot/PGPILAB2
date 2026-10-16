@@ -7,6 +7,7 @@
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
 * Presencio de Olmedo, Antonio
+* Rosello Mateo, Kevin Manuel
 
 === Organización del transporte
 
@@ -17,3 +18,8 @@
 
 * Rafael Luque
 * Antonio Presencio
+
+=== Bugatti Chiron(2 plazas)
+
+* Kevin Manuel
+
