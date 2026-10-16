@@ -4,6 +4,7 @@
 // Formato: Apellidos, Nombre
 
 * Luque Giráldez, José Rafael
+* Pérez Bazarot, Jesús
 
 === Organización del transporte
 
