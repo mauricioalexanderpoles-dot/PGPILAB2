@@ -4,6 +4,7 @@
 // Formato: Apellidos, Nombre
 
 * Afán Saucedo, Manuel
+* Cid Romero, Miguel
 * Cruz Ferrer, Tomás
 * Díaz Ramayo, Antonio Jesús
 * González Arroyo, Alberto
@@ -37,6 +38,7 @@
 * Antonio Presencio
 * Manuel Afán
 * Tomás Cruz Ferrer
+* Miguel Cid Romero
 
 ==== Bugatti Chiron(2 plazas)
 
