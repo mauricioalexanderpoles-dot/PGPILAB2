@@ -3,6 +3,7 @@
 // Ordenados por orden alfabético
 // Formato: Apellidos, Nombre
 
+* Afán Saucedo, Manuel
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
 
