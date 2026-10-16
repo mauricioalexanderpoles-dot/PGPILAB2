@@ -6,13 +6,17 @@
 * Afán Saucedo, Manuel
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
+* Romero Molina, Marco
 * Presencio de Olmedo, Antonio
 
 === Organización del transporte
 
 // Si tienes vehículo, pon el número de plazas. Si no tienes, añádete a
 // alguno de los vehículos existentes.
+==== Renault Clio (5 plazas)
 
+* Marco Romero
+ 
 ==== Peugeot 508 (5 plazas)
 
 * Rafael Luque
