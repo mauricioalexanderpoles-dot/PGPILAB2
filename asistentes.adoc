@@ -6,6 +6,7 @@
 * Afán Saucedo, Manuel
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
+* Presencio de Olmedo, Antonio
 
 === Organización del transporte
 
@@ -15,3 +16,4 @@
 ==== Peugeot 508 (5 plazas)
 
 * Rafael Luque
+* Antonio Presencio
