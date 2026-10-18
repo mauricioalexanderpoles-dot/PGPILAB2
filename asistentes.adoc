@@ -4,6 +4,7 @@
 // Formato: Apellidos, Nombre
 
 * Afán Saucedo, Manuel
+* Díaz Ramayo, Antonio Jesús
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
 * Romero Molina, Marco
@@ -17,6 +18,7 @@
 
 ==== Renault Clio (5 plazas)
 
+* Antonio Díaz
 * Marco Romero
  
 ==== Peugeot 508 (5 plazas)
