@@ -1,4 +1,4 @@
-== ﻿Lista de asistentes
+== Lista de asistentes
 
 // Ordenados por orden alfabético
 // Formato: Apellidos, Nombre
@@ -7,9 +7,9 @@
 * Díaz Ramayo, Antonio Jesús
 * Luque Giráldez, José Rafael
 * Pérez Bazarot, Jesús
-* Romero Molina, Marco
 * Presencio de Olmedo, Antonio
 * Rosello Mateo, Kevin Manuel
+* Romero Molina, Marco
 
 === Organización del transporte
 
@@ -26,7 +26,6 @@
 * Rafael Luque
 * Antonio Presencio
 
-=== Bugatti Chiron(2 plazas)
+==== Bugatti Chiron(2 plazas)
 
 * Kevin Manuel
-
