@@ -6,6 +6,7 @@
 * Afán Saucedo, Manuel
 * Díaz Ramayo, Antonio Jesús
 * Luque Giráldez, José Rafael
+* Otero Jiménez, Alejandro
 * Pérez Bazarot, Jesús
 * Presencio de Olmedo, Antonio
 * Rosello Mateo, Kevin Manuel
@@ -29,3 +30,4 @@
 ==== Bugatti Chiron(2 plazas)
 
 * Kevin Manuel
+* Alejandro Otero
