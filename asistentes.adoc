@@ -10,6 +10,7 @@
 * Presencio de Olmedo, Antonio
 * Rosello Mateo, Kevin Manuel
 * Romero Molina, Marco
+* Rubio Sanchez, Pablo
 
 === Organización del transporte
 
@@ -20,6 +21,7 @@
 
 * Antonio Díaz
 * Marco Romero
+* Pablo Rubio
  
 ==== Peugeot 508 (5 plazas)
 
