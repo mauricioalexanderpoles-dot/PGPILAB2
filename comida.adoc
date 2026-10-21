@@ -4,15 +4,18 @@
 
 === Aperitivos
 
+* Aceitunas
 * Patatas fritas
 
 
 === Platos principales
 
 * Chuletas de cabeza
+* Pasta boloñesa
 * Pinchito de pollo
 
 === Postres
 
 * Arroz con leche
+* Gelatina
 * Tarta de Queso
