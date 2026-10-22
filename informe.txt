@@ -1,0 +1,2204 @@
+=== LOG FINAL ===
+*   commit e7f5a6e7d067fbeadb0387f3bd6a6fd82312f1bb (HEAD -> main, origin/main, origin/HEAD)
+|\  Merge: fe3e5cb d386458
+| | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | Date:   Fri Oct 9 12:20:47 2026 +0000
+| | 
+| |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| |   
+| *   commit d3864582f642b9152b151b177f5394540ab713f0
+| |\  Merge: afa4e3c 7a9a9a5
+| | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | Date:   Fri Oct 9 12:17:23 2026 +0000
+| | | 
+| | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | |   
+| | *   commit 7a9a9a518300a2a294ee2e4ca3da397e90df6170
+| | |\  Merge: a77a659 2be3faa
+| | | | Author: Antonio <antdiaram1@alum.us.es>
+| | | | Date:   Fri Oct 9 12:15:11 2026 +0000
+| | | | 
+| | | |     Merge branch 'main' of gitea.lan:PGPI2627/Barbacoal3
+| | | |   
+| | * |   commit a77a659c5b327c5acdbb74aa733e9d4e2b238143
+| | |\ \  Merge: 39fbeda 7793d74
+| | | | | Author: Antonio <antdiaram1@alum.us.es>
+| | | | | Date:   Fri Oct 9 12:14:58 2026 +0000
+| | | | | 
+| | | | |     Nombre añadido en orden alfavetico
+| | | | |   
+| | * | |   commit 39fbeda32888ee53935c0c5d322de8627f5537e0
+| | |\ \ \  Merge: 3e766f3 7c06fdc
+| | | | | | Author: Antonio <antdiaram1@alum.us.es>
+| | | | | | Date:   Fri Oct 9 11:56:47 2026 +0000
+| | | | | | 
+| | | | | |     Merge branch 'dev'
+| | | | | | 
+| | | * | | commit 7c06fdcb060724d06c5fceb4be1cc65ab694abd0
+| | | | | | Author: Antonio <antdiaram1@alum.us.es>
+| | | | | | Date:   Fri Oct 9 11:43:11 2026 +0000
+| | | | | | 
+| | | | | |     Guardar cambios locales pendientes
+| | | | | | 
+| | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | index 1b3ac2b..aea5187 100644
+| | | | | | --- a/asistentes.txt
+| | | | | | +++ b/asistentes.txt
+| | | | | | @@ -3,6 +3,7 @@
+| | | | | |  Afan Saucedo, Manuel
+| | | | | |  Arquer de la Prada, Pelayo
+| | | | | |  Cruz Ferrer, Tomás
+| | | | | | +Diaz Ramayo, Antonio Jesus
+| | | | | |  Luque Giráldez, José Rafael
+| | | | | |  Orts Arjona, Miguel Ángel
+| | | | | |  Pérez Bazarot, Jesús
+| | | | | | 
+| * | | | | commit afa4e3cc5ca8169a61f5c73781827e0016c25db8
+| | |_|_|/  Author: Alejandro Otero <aleotejim@alum.us.es>
+| |/| | |   Date:   Fri Oct 9 12:16:51 2026 +0000
+| | | | |   
+| | | | |       Añado el ajedrez
+| | | | |   
+| | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | |   index 44bef28..89d2e05 100644
+| | | | |   --- a/juegos.txt
+| | | | |   +++ b/juegos.txt
+| | | | |   @@ -1,4 +1,5 @@
+| | | | |    # Juegos propuestos en orden alfabético
+| | | | |   +Ajedrez
+| | | | |    Cartas contra la Humanidad
+| | | | |    Jenga
+| | | | |    Magic: The Gathering
+| | | | | 
+* | | | | commit fe3e5cbfc962b2831ad8ab63187f3bbe9b950132 (dev)
+|/ / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | |   Date:   Fri Oct 9 12:19:10 2026 +0000
+| | | |   
+| | | |       Monster mango loco agregado
+| | | |   
+| | | |   diff --git a/bebida.txt b/bebida.txt
+| | | |   index ec8e2b5..75052c7 100644
+| | | |   --- a/bebida.txt
+| | | |   +++ b/bebida.txt
+| | | |   @@ -8,7 +8,9 @@ Cruzcampo
+| | | |    Horchata
+| | | |    Limonada
+| | | |    Litrona
+| | | |   +Monster Mango Loco
+| | | |    Piña colada
+| | | |    Ron Recompensa
+| | | |    Vodka
+| | | |    Zumo de piña
+| | | |   +
+| | | |   
+* | | |   commit 2be3faade80433965f9cfcdd1d330916506d36e8
+|\ \ \ \  Merge: f1842f0 657dbba
+| | | | | Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| | | | | Date:   Fri Oct 9 12:14:40 2026 +0000
+| | | | | 
+| | | | |     Merge gitea.lan:PGPI2627/BarbacoaL3
+| | | | |   
+| * | | |   commit 657dbba5510b2fb218b4f363511acf617ddc277f
+| |\ \ \ \  Merge: 66c7a5f 215a27d
+| | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | Date:   Fri Oct 9 12:14:08 2026 +0000
+| | | | | | 
+| | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | 
+| * | | | | commit 66c7a5f8b6bf6be491c5143c2ddc14cf00c0f3b5
+| | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | Date:   Fri Oct 9 12:12:50 2026 +0000
+| | | | | | 
+| | | | | |     Croquetas de puchero añadidas
+| | | | | | 
+| | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | index 0c16fb1..72e4f3a 100644
+| | | | | | --- a/comida.txt
+| | | | | | +++ b/comida.txt
+| | | | | | @@ -1,6 +1,7 @@
+| | | | | |  # Comida para llevar por orden alfabético
+| | | | | |  Aceitunas
+| | | | | |  Chuleton
+| | | | | | +Croquetas de puchero
+| | | | | |  Hamburgesas
+| | | | | |  Huevos
+| | | | | |  Lasaña
+| | | | | |   
+* | | | | |   commit f1842f0bc6108ae900c65d9ed1f8d046036f1d7c
+|\ \ \ \ \ \  Merge: a0a1551 215a27d
+| | |/ / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | |   Date:   Fri Oct 9 12:14:36 2026 +0000
+| | | | | |   
+| | | | | |       Juntar bebida3
+| | | | | | 
+| * | | | | commit 215a27d8e875240711649621d0d8ef5d6c6bc26d
+| | | | | | Author: antprede <antprede@alum.us.es>
+| | | | | | Date:   Fri Oct 9 12:12:20 2026 +0000
+| | | | | | 
+| | | | | |     Vodka
+| | | | | | 
+| | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | index 7b15d71..6ec42f0 100644
+| | | | | | --- a/bebida.txt
+| | | | | | +++ b/bebida.txt
+| | | | | | @@ -1,4 +1,4 @@
+| | | | | | -+# Bebida para llevar por orden alfabético
+| | | | | | +# Bebida para llevar por orden alfabético
+| | | | | |  Amareto
+| | | | | |  Agua
+| | | | | |  Coca-cola
+| | | | | |   
+| * | | | |   commit a5760da8560332c5ab2b6462bb86c7a05e893189
+| |\ \ \ \ \  Merge: 2c87572 7793d74
+| | | |_|_|/  Author: antprede <antprede@alum.us.es>
+| | |/| | |   Date:   Fri Oct 9 12:11:26 2026 +0000
+| | | | | |   
+| | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | 
+| * | | | | commit 2c8757276ecb71a09dc9a7e566ac6c49d75ef878
+| | | | | | Author: antprede <antprede@alum.us.es>
+| | | | | | Date:   Fri Oct 9 12:11:14 2026 +0000
+| | | | | | 
+| | | | | |     Vodka
+| | | | | | 
+| | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | index d76d597..24c3c61 100644
+| | | | | | --- a/bebida.txt
+| | | | | | +++ b/bebida.txt
+| | | | | | @@ -9,5 +9,6 @@ Horchata
+| | | | | |  Limonada
+| | | | | |  Piña colada
+| | | | | |  Ron Recompensa
+| | | | | | +Vodka
+| | | | | |  Zumo de piña
+| | | | | |  
+| | | | | |   
+* | | | | |   commit a0a1551bedcb6d47f324ac71e4936be248384bbe
+|\ \ \ \ \ \  Merge: 1166ac7 7793d74
+| | |/ / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | |   Date:   Fri Oct 9 12:13:58 2026 +0000
+| | | | | |   
+| | | | | |       Juntar bebida2
+| | | | | | 
+| * | | | | commit 7793d747c8a74a671a84c1813debb8147cb6d46f
+| |\| | | | Merge: 52d5050 4eeb866
+| | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | Date:   Fri Oct 9 12:10:52 2026 +0000
+| | | | | | 
+| | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | |   
+| | * | | |   commit 4eeb8667c2d03c4deb090b427f698c09f6a8c1f8
+| | |\ \ \ \  Merge: 4703389 45f1775
+| | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | Date:   Fri Oct 9 12:10:51 2026 +0000
+| | | | | | | 
+| | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | 
+| | | * | | | commit 45f1775dfcbe4b15c574d5e446acf398f80d57c5
+| | | |\| | | Merge: 08feae5 a0d4701
+| | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | Date:   Fri Oct 9 12:10:10 2026 +0000
+| | | | | | | 
+| | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | |   
+| | | * | | |   commit 08feae5e67a09c23c79d91467c2ea72f09e605be
+| | | |\ \ \ \  Merge: 7b15f3e 5f6d8c0
+| | | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | | Date:   Fri Oct 9 12:08:54 2026 +0000
+| | | | | | | | 
+| | | | | | | |     Merge branch 'dev'
+| | | | | | | | 
+| | | | * | | | commit 5f6d8c09356e93acb2d31b6ac6bc1497d99d9530
+| | | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | | Date:   Fri Oct 9 12:08:40 2026 +0000
+| | | | | | | | 
+| | | | | | | |     Cambio de comida
+| | | | | | | | 
+| | | | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | | | index 473bff0..2c60e6b 100644
+| | | | | | | | --- a/comida.txt
+| | | | | | | | +++ b/comida.txt
+| | | | | | | | @@ -4,5 +4,6 @@ Hamburgesas
+| | | | | | | |  Huevos
+| | | | | | | |  Lasaña
+| | | | | | | |  Patatas fritas
+| | | | | | | | +Peperoni
+| | | | | | | |  Pinchitos
+| | | | | | | |  Salchicha
+| | | | | | | |   
+| | * | | | | |   commit 4703389fd9dc0cec8facfcf255567cd3c97eea41
+| | |\ \ \ \ \ \  Merge: f3ee88a a0d4701
+| | | | |_|/ / /  Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | |/| | | |   Date:   Fri Oct 9 12:09:58 2026 +0000
+| | | | | | | |   
+| | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | |   
+| | * | | | | |   commit f3ee88aac4a60bf395fe7ab1e959e50cd8240b69
+| | |\ \ \ \ \ \  Merge: 81674be 1dfc587
+| | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | Date:   Fri Oct 9 12:05:54 2026 +0000
+| | | | | | | | | 
+| | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | |   
+| | * | | | | | |   commit 81674be24ba97d7eebb8df5324643d4e27e579f8
+| | |\ \ \ \ \ \ \  Merge: feeba7d 5a82e13
+| | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | Date:   Fri Oct 9 12:03:22 2026 +0000
+| | | | | | | | | | 
+| | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | |   
+| | * | | | | | | |   commit feeba7d8a6304687970d85a512c745a51c9a5008
+| | |\ \ \ \ \ \ \ \  Merge: 6a5348f 02a9047
+| | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | Date:   Fri Oct 9 12:02:59 2026 +0000
+| | | | | | | | | | | 
+| | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | |   
+| | * | | | | | | | |   commit 6a5348f256795a053ff7de0d2d1a1a6b38c5348d
+| | |\ \ \ \ \ \ \ \ \  Merge: 8606c34 77208e9
+| | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | Date:   Fri Oct 9 12:02:40 2026 +0000
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit 8606c347e306a705a4387bed0d34a815a576dc66
+| | |\ \ \ \ \ \ \ \ \ \  Merge: 00e9ea6 7625bbd
+| | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | Date:   Fri Oct 9 12:00:38 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| | * | | | | | | | | | |   commit 00e9ea60576d08890bdd970e33c8691c47473e9d
+| | |\ \ \ \ \ \ \ \ \ \ \  Merge: 0c3fe81 5dbc745
+| | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:57:40 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | commit 0c3fe81bb2c31475294f130b209422bc59f002aa
+| | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:57:24 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     fix: conflicto
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | index c06088a..b9463ff 100644
+| | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | @@ -11,6 +11,6 @@ Otero Jiménez, Alejandro
+| | | | | | | | | | | | | |  Pérez Bazarot, Jesús
+| | | | | | | | | | | | | |  Polanco Espino, Mauricio Alexander
+| | | | | | | | | | | | | |  Presencio de Olmedo, Antonio
+| | | | | | | | | | | | | | -Rubio Sánchez, Pablo
+| | | | | | | | | | | | | |  Rosello Mateo,Kevin Manuel
+| | | | | | | | | | | | | |  Romero Molina, Marco
+| | | | | | | | | | | | | | +Rubio Sánchez, Pablo
+| | | | | | | | | | | | | |   
+| | * | | | | | | | | | | |   commit 965be81cc4caa618043580388e158a1881c1f8c9
+| | |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 529c09e 3e766f3
+| | | | |_|_|_|_|_|_|_|_|/ /  Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | | |   Date:   Fri Oct 9 11:56:25 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | |   
+| | * | | | | | | | | | | |   commit 529c09e21106129b778525e2e13ef0d6947bcf2d
+| | |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 1414f3e 0f9aa6f
+| | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:55:44 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     fix: conflicto
+| | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | |   commit 1414f3e451a52f01e9c9f1de25f10ab9ea3586e4
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 7e2529a 26c0f7d
+| | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:54:02 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     fix: conflictos
+| | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | |   commit 7e2529a8e328158f75020787238a6f4cd1116245
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 5859203 5f69a13
+| | | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:40:58 2026 +0000
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     fix: resolver y añadir mi nombre
+| | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | |   commit 58592034bd4ea4ecf5f4cab2cfab9c1fc58b7709
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 5288962 b4b7643
+| | | | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:30:52 2026 +0000
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     fix: resolver conflicto de merge al integrar main
+| | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | commit b4b7643e4170ec81929d46969aeb726e4bd34194 (origin/dev)
+| | | | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@pabrubsan-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:21:20 2026 +0000
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     feat: añadir [Rubio Sánchez, Pablo] a asistentes.txt
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | | | | index f46a391..882a66b 100644
+| | | | | | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | | | | | @@ -1,3 +1,4 @@
+| | | | | | | | | | | | | | | | | |  # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | | | | | | | | | | |  # Apellidos, Nombre
+| | | | | | | | | | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | | | | +Rubio Sánchez, Pablo
+| | | | | | | | | | | | | | | | | |   
+| * | | | | | | | | | | | | | | | |   commit 52d5050120a7a68c265a2003b7138e37ee2d2291
+| |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1207db6 a0d4701
+| | | |_|_|_|_|_|_|_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:10:26 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | |   commit a0d470135d57631892680a174cdaf6cd37a9c39b
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: c19c287 a832545
+| | | | | | | | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:08:44 2026 +0000
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | |   commit a832545d86cf2dee654c1a30a28a47f4f19d7ed3
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 77c40b5 72d8e22
+| | | | | | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@fpk9199-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:08:12 2026 +0000
+| | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | | commit 77c40b5406f2887a15eb14f45d5bd9d7a4d0eb04
+| | | | | | | | | | | | | | | | | | | | Author: Ubuntu <ubuntu@fpk9199-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:05:49 2026 +0000
+| | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | |     Resoliviendo conflictos al añadir mi nombre
+| | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | | | | | | index f58f3c6..9929fd2 100644
+| | | | | | | | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | | | | | | | @@ -1,13 +1,10 @@
+| | | | | | | | | | | | | | | | | | | |  # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | | | | | | | | | | | | |  # Apellidos, Nombre
+| | | | | | | | | | | | | | | | | | | | -<<<<<<< HEAD
+| | | | | | | | | | | | | | | | | | | |  Afan Saucedo, Manuel
+| | | | | | | | | | | | | | | | | | | |  Arquer de la Prada, Pelayo
+| | | | | | | | | | | | | | | | | | | |  Cruz Ferrer, Tomás
+| | | | | | | | | | | | | | | | | | | | -Gonzalez Arroyo,Alberto
+| | | | | | | | | | | | | | | | | | | | -=======
+| | | | | | | | | | | | | | | | | | | |  Dominguez Puntas, Jose Miguel
+| | | | | | | | | | | | | | | | | | | | ->>>>>>> c205d35 (Añadiendo mi nombre a la lista de asistentes)
+| | | | | | | | | | | | | | | | | | | | +Gonzalez Arroyo,Alberto
+| | | | | | | | | | | | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | | | | | |  Martínez Benjumea, David
+| | | | | | | | | | | | | | | | | | | |  Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | | commit cefa201f63803c9646eb29751c46fe9f97d4080a
+| | | | |_|_|_|_|_|_|_|/ / / / / / / /  Author: Ubuntu <ubuntu@fpk9199-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 11:45:17 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Añadiendo mi nombre a la lista de asistentes
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | | | | |   index 33021cd..f58f3c6 100644
+| | | | | | | | | | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | | | | | | | | | |   @@ -1,9 +1,13 @@
+| | | | | | | | | | | | | | | | | | |    # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | | | | | | | | | | | |    # Apellidos, Nombre
+| | | | | | | | | | | | | | | | | | |   +<<<<<<< HEAD
+| | | | | | | | | | | | | | | | | | |    Afan Saucedo, Manuel
+| | | | | | | | | | | | | | | | | | |    Arquer de la Prada, Pelayo
+| | | | | | | | | | | | | | | | | | |    Cruz Ferrer, Tomás
+| | | | | | | | | | | | | | | | | | |    Gonzalez Arroyo,Alberto
+| | | | | | | | | | | | | | | | | | |   +=======
+| | | | | | | | | | | | | | | | | | |   +Dominguez Puntas, Jose Miguel
+| | | | | | | | | | | | | | | | | | |   +>>>>>>> c205d35 (Añadiendo mi nombre a la lista de asistentes)
+| | | | | | | | | | | | | | | | | | |    Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | | | | |    Martínez Benjumea, David
+| | | | | | | | | | | | | | | | | | |    Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | |   commit c19c2871ad03ba549dc86030d90e69a7eb3a2af8
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 7e6efbf 72d8e22
+| | | | |/ / / / / / / / / / / / / / /  Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:08:13 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | |   commit 7e6efbf548ab474c1aa7eb6b01f0106470788d9a
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: d247470 52ef4c5
+| | | | | | | | | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:08:05 2026 +0000
+| | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | | |   commit d2474700bb283856b78471c4969fbd7c3181e4b2
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 890b8dc 36361b0
+| | | | | | | | | | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:07:57 2026 +0000
+| | | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | | | | | | commit 890b8dc39a794418b95b20bab76d390f3c2239b6
+| | | |_|_|_|_|_|_|_|_|_|_|_|_|_|/ / / /  Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | |/| | | | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:40 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Mantel añadido a materiales
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | | | | | | |   index 2c5054a..c6d35e8 100644
+| | | | | | | | | | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | | | | | | | | | |   @@ -4,6 +4,7 @@ Cucharas
+| | | | | | | | | | | | | | | | | | | |    Cuerdas
+| | | | | | | | | | | | | | | | | | | |    Hielos
+| | | | | | | | | | | | | | | | | | | |    Madera
+| | | | | | | | | | | | | | | | | | | |   +Mantel
+| | | | | | | | | | | | | | | | | | | |    Mesas
+| | | | | | | | | | | | | | | | | | | |    Nevera
+| | | | | | | | | | | | | | | | | | | |    Nitrogeno
+| | | | | | | | | | | | | | | | | | | |   
+| * | | | | | | | | | | | | | | | | | |   commit 1207db6689508469d6dcbc8f4d6b96c483c7a89d
+| |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: ea0f513 72d8e22
+| | | |_|_|/ / / / / / / / / / / / / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | |/| | | | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:10:19 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Añado la litrona
+| | | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | | |   commit 72d8e22d6da4bbd74b2db298a13a38ad5eddfb71
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 6df31ca 52ef4c5
+| | | | |_|/ / / / / / / / / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | |/| | | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:08:01 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | | |   commit 52ef4c580567617817d38a8dadffcdf6d5cc386d
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: d5b5702 36361b0
+| | | | | |/ / / / / / / / / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:49 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | | |   commit d5b5702124e72c9a3d5eaeb4167b93278beddcae
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 6ecf755 7b15f3e
+| | | | | |_|_|_|_|_|_|_|_|_|_|_|_|/ / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:27 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | | commit 6ecf75563da73eea1286e7439fc1107377769646
+| | | | |_|/ / / / / / / / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:22 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Añadir baozi a la comida
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |   diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | | | | | | |   index 473bff0..4f6b114 100644
+| | | | | | | | | | | | | | | | | | |   --- a/comida.txt
+| | | | | | | | | | | | | | | | | | |   +++ b/comida.txt
+| | | | | | | | | | | | | | | | | | |   @@ -6,3 +6,4 @@ Lasaña
+| | | | | | | | | | | | | | | | | | |    Patatas fritas
+| | | | | | | | | | | | | | | | | | |    Pinchitos
+| | | | | | | | | | | | | | | | | | |    Salchicha
+| | | | | | | | | | | | | | | | | | |   +包子
+| | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | |   commit 6df31ca7db3101220ec195c7f61275ae1a78928c
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 67ae33f 36361b0
+| | | | |_|/ / / / / / / / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:58 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | commit 36361b0a358b9424b278a8110f6337e31f4c95f4
+| | | | | | | | | | | | | | | | | | | Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:07:03 2026 +0000
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | |     Añadir Risk a la lista de juegos
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | | | | | | | | index 75f4e79..00f8113 100644
+| | | | | | | | | | | | | | | | | | | --- a/juegos.txt
+| | | | | | | | | | | | | | | | | | | +++ b/juegos.txt
+| | | | | | | | | | | | | | | | | | | @@ -3,5 +3,6 @@ Cartas contra la Humanidad
+| | | | | | | | | | | | | | | | | | |  Magic: The Gathering
+| | | | | | | | | | | | | | | | | | |  Oca
+| | | | | | | | | | | | | | | | | | |  Monopoly
+| | | | | | | | | | | | | | | | | | | +Risk
+| | | | | | | | | | | | | | | | | | |  Uno
+| | | | | | | | | | | | | | | | | | |  
+| | | | | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | | | | commit 67ae33f04025df1bfe1c1eff36c2fc11533e42cc
+| | |\| | | | | | | | | | | | | | | | Merge: 8e0af43 d367747
+| | | | | | | | | | | | | | | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:07:38 2026 +0000
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | |   commit d367747f65b510d5976bbf9f593cc02395f941fc
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 0b33412 7b15f3e
+| | | | | |/ / / / / / / / / / / / / /  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | |/| | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:12 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | commit 0b33412a36f1a6ded3758dff8f6a889fe4a21180
+| | | | | | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:06:48 2026 +0000
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | |     Comida
+| | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | | | | | | | index 6a05db2..26ac918 100644
+| | | | | | | | | | | | | | | | | | | --- a/comida.txt
+| | | | | | | | | | | | | | | | | | | +++ b/comida.txt
+| | | | | | | | | | | | | | | | | | | @@ -4,6 +4,7 @@ Chuleton
+| | | | | | | | | | | | | | | | | | |  Hamburgesas
+| | | | | | | | | | | | | | | | | | |  Huevos
+| | | | | | | | | | | | | | | | | | |  Lasaña
+| | | | | | | | | | | | | | | | | | | +Lentejas
+| | | | | | | | | | | | | | | | | | |  Patatas fritas
+| | | | | | | | | | | | | | | | | | |  Pinchitos
+| | | | | | | | | | | | | | | | | | |  Salchicha
+| | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | |   commit d5cc777d04268e5c6415eb972bf29452541bf811
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 022775e 5a82e13
+| | | | | |_|_|_|_|_|_|_|_|_|_|_|/ / /  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | |/| | | | | | | | | | | | | |   Date:   Fri Oct 9 12:04:06 2026 +0000
+| | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3 into dev
+| | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | |   commit 022775e0461894862c5724b234737da050bc8890
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 59a14ac b7485af
+| | | | | | | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:02:44 2026 +0000
+| | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | |     Merge branch 'main' into dev
+| | | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | | |   commit 59a14acbda25d6062aef420e1dd3d614ab077a0b
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: caf3de0 7625bbd
+| | | | | |_|_|_|/ / / / / / / / / / / /  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:00:43 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3 into dev
+| | | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | | |   commit caf3de0356fe5ec1edf3fd14e9a6b0fde4ba970d
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 8bef999 22ca5bd
+| | | | | | | | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:00:21 2026 +0000
+| | | | | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3 into dev
+| | | | | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | | | | commit 8bef999ed70614588133366d3abc82cf32dd9ff0
+| | | | |_|_|_|_|_|_|_|_|_|_|_|/ / / / /  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | |/| | | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:00:14 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Nueva comida
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |   diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | | | | | | | |   index 9846a07..2d49550 100644
+| | | | | | | | | | | | | | | | | | | |   --- a/comida.txt
+| | | | | | | | | | | | | | | | | | | |   +++ b/comida.txt
+| | | | | | | | | | | | | | | | | | | |   @@ -1,4 +1,5 @@
+| | | | | | | | | | | | | | | | | | | |    # Comida para llevar por orden alfabético
+| | | | | | | | | | | | | | | | | | | |   +Aceitunas
+| | | | | | | | | | | | | | | | | | | |    Chuleton
+| | | | | | | | | | | | | | | | | | | |    Hamburgesas
+| | | | | | | | | | | | | | | | | | | |    Huevos
+| | | | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | | | |   commit 8e0af43d93d75c6027bc6397249fbbae6c360f4a
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 0d89633 7b15f3e
+| | | | |_|_|_|_|/ / / / / / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | |/| | | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:20 2026 +0000
+| | | | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | | | |   commit 7b15f3edfc987281a8e8ac4c51c180353a3107ac
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1dfc587 9e88b64
+| | | | |_|_|_|_|_|/ / / / / / / / / / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | | | | | | | / /   Date:   Fri Oct 9 12:06:21 2026 +0000
+| | | | | |_|_|_|_|_|_|_|_|_|_|_|_|/ /    
+| | | | |/| | | | | | | | | | | | | |         Merge branch 'dev'
+| | | | | | | | | | | | | | | | | | | 
+| | | | * | | | | | | | | | | | | | | commit 9e88b644f046dc4c645a91f4a918c62ba1bc1ad4
+| | | | | |_|_|/ / / / / / / / / / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 12:05:06 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Cambios en bebidas
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | | | | |   index 40830e4..d76d597 100644
+| | | | | | | | | | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | | | | | | | | | |   @@ -1,4 +1,5 @@
+| | | | | | | | | | | | | | | | | |    i# Bebida para llevar por orden alfabético
+| | | | | | | | | | | | | | | | | |   +Amareto
+| | | | | | | | | | | | | | | | | |    Agua
+| | | | | | | | | | | | | | | | | |    Coca-cola
+| | | | | | | | | | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | | | | | | | | | |   
+| | * | | | | | | | | | | | | | | |   commit 0d896338fffe4d1ad0f9ed68c222c2a8e89558cb
+| | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1dfc587 f269f5f
+| | | |/ / / / / / / / / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | | | | | | |   Date:   Fri Oct 9 12:07:16 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Jenga añadido
+| | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | commit f269f5f1ec89ee5d16ddf135e3517b1dd22ef67f
+| | | | |_|_|_|_|_|_|_|_|_|_|_|/ /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 12:05:03 2026 +0000
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Jenga añadido
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | | | | | |   index aeb5d78..a5be2f9 100644
+| | | | | | | | | | | | | | | | |   --- a/juegos.txt
+| | | | | | | | | | | | | | | | |   +++ b/juegos.txt
+| | | | | | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | | | | | |    # Juegos propuestos en orden alfabético
+| | | | | | | | | | | | | | | | |    Cartas contra la Humanidad
+| | | | | | | | | | | | | | | | |   +Jenga
+| | | | | | | | | | | | | | | | |    Oca
+| | | | | | | | | | | | | | | | |    Monopoly
+| | | | | | | | | | | | | | | | |    Uno
+| | | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | | commit 1dfc5870bb0671a77804af42cc77280559c86007
+| | | |_|_|_|_|/ / / / / / / / /  Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 12:01:46 2026 +0000
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Añadir madera a la lista de materiales
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | | |   index e7c6dd3..2c5054a 100644
+| | | | | | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | | | | | |   @@ -3,6 +3,7 @@ Carbon
+| | | | | | | | | | | | | | | |    Cucharas
+| | | | | | | | | | | | | | | |    Cuerdas
+| | | | | | | | | | | | | | | |    Hielos
+| | | | | | | | | | | | | | | |   +Madera
+| | | | | | | | | | | | | | | |    Mesas
+| | | | | | | | | | | | | | | |    Nevera
+| | | | | | | | | | | | | | | |    Nitrogeno
+| | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | commit 5a82e13961818194f5589d4abe757bea2acecb54
+| | |\| | | | | | | | | | | | | Merge: 78a7275 02a9047
+| | | | | | | | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:03:06 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | |   commit 02a904723dbb9b57af6f02b046ab332a66abe52f
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 863cde5 77208e9
+| | | | | |_|_|_|_|_|_|_|_|_|/ /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | |/| | | | | | | | | | |   Date:   Fri Oct 9 12:02:34 2026 +0000
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | 
+| | | | * | | | | | | | | | | | commit 77208e909338f960c3b4a40d9b397fd2883cbcad
+| | | | |\| | | | | | | | | | | Merge: 80334ad b7485af
+| | | | | | | | | | | | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:02:14 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | | |   commit 80334ad61f4dd16bc281543d6ed7246e9015385b
+| | | | |\ \ \ \ \ \ \ \ \ \ \ \  Merge: b9d4c09 ea50dcb
+| | | | | | | | | | | | | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | | | | | | | | | | | | Date:   Fri Oct 9 12:01:27 2026 +0000
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | | | |   commit b9d4c0933911fc5c5ae7049ea16a49f5d151dbed
+| | | | |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 0bc4541 7625bbd
+| | | | | | |_|_|_|/ / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | |/| | | | | | | | | | |   Date:   Fri Oct 9 12:01:24 2026 +0000
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       cucharas añadidas
+| | | | | | | | | | | | | | | | | 
+| | | | * | | | | | | | | | | | | commit 0bc45417122a8b7bd9fc355dcd7e0fa796215868
+| | | | | |_|_|/ / / / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | |/| | | | | | | | | | |   Date:   Fri Oct 9 12:00:01 2026 +0000
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Cucharas añadidas
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | | |   index 275bcd9..b462a11 100644
+| | | | | | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | | | | |    # Materiales necesarios en orden afabético
+| | | | | | | | | | | | | | | |    Carbon
+| | | | | | | | | | | | | | | |   +Cucharas
+| | | | | | | | | | | | | | | |    Mesas
+| | | | | | | | | | | | | | | |    Nevera
+| | | | | | | | | | | | | | | |    Servilletas
+| | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | commit 863cde5c9302d35e78efb164bfaa974fdd802c61
+| | | | |_|/ / / / / / / / / /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | | | |   Date:   Fri Oct 9 12:02:12 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Monpoly
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | | | |   index 215914a..aeb5d78 100644
+| | | | | | | | | | | | | | |   --- a/juegos.txt
+| | | | | | | | | | | | | | |   +++ b/juegos.txt
+| | | | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | | | |    # Juegos propuestos en orden alfabético
+| | | | | | | | | | | | | | |    Cartas contra la Humanidad
+| | | | | | | | | | | | | | |    Oca
+| | | | | | | | | | | | | | |   -Uno
+| | | | | | | | | | | | | | |    Monopoly
+| | | | | | | | | | | | | | |   +Uno
+| | | | | | | | | | | | | | |   +
+| | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | commit 78a72754c40654cdda34a83802cd396164424631
+| | | |_|_|/ / / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | | | | | | | | | |   Date:   Fri Oct 9 12:03:01 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Añadir Magic: The Gathering a los juegos
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | | |   index 215914a..b20c36f 100644
+| | | | | | | | | | | | | |   --- a/juegos.txt
+| | | | | | | | | | | | | |   +++ b/juegos.txt
+| | | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | | |    # Juegos propuestos en orden alfabético
+| | | | | | | | | | | | | |    Cartas contra la Humanidad
+| | | | | | | | | | | | | |   +Magic: The Gathering
+| | | | | | | | | | | | | |    Oca
+| | | | | | | | | | | | | |    Uno
+| | | | | | | | | | | | | |    Monopoly
+| | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | commit b7485af65cc3e7cd06edb62d73c57e87e1f7a36d
+| | |\| | | | | | | | | | | Merge: a9d0719 ea50dcb
+| | | | | | | | | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 12:01:31 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | |   
+| | | * | | | | | | | | | |   commit ea50dcb37213ecd9bca007f988b92a1375dea426
+| | | |\ \ \ \ \ \ \ \ \ \ \  Merge: 842dbbf 7625bbd
+| | | | | |/ / / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | |   Date:   Fri Oct 9 12:01:12 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | |   
+| | | | * | | | | | | | | |   commit 7625bbd418422bb8384aae00381a51d2ccca91ef
+| | | | |\ \ \ \ \ \ \ \ \ \  Merge: e4b7979 22ca5bd
+| | | | | | |/ / / / / / / /  Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | |/| | | | | | | |   Date:   Fri Oct 9 12:00:13 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | 
+| | | | * | | | | | | | | | commit e4b7979570a6805821b2fc3f42a2739cb6224797
+| | | | | |/ / / / / / / /  Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | |/| | | | | | | |   Date:   Fri Oct 9 11:59:54 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Piña colada añadida
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | |   index ac33c82..40830e4 100644
+| | | | | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | | | | |   @@ -1,4 +1,4 @@
+| | | | | | | | | | | | |   -# Bebida para llevar por orden alfabético
+| | | | | | | | | | | | |   +i# Bebida para llevar por orden alfabético
+| | | | | | | | | | | | |    Agua
+| | | | | | | | | | | | |    Coca-cola
+| | | | | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | | | | |   @@ -6,6 +6,7 @@ Cerveza
+| | | | | | | | | | | | |    Coca-cola
+| | | | | | | | | | | | |    Horchata
+| | | | | | | | | | | | |    Limonada
+| | | | | | | | | | | | |   +Piña colada
+| | | | | | | | | | | | |    Ron Recompensa
+| | | | | | | | | | | | |    Zumo de piña
+| | | | | | | | | | | | |    
+| | | | | | | | | | | | |   
+| | | * | | | | | | | | |   commit 842dbbfa9c658065735903ac550b7d8b313a0e95
+| | | |\ \ \ \ \ \ \ \ \ \  Merge: 4cc7876 22ca5bd
+| | | | | |/ / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | |   Date:   Fri Oct 9 12:01:06 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge de main en dev resolviendo conflicto en materiales.txt
+| | | | | | | | | | | | | 
+| | | * | | | | | | | | | commit 4cc78765dea68fd8147bb48293c86c95af56ad2f
+| | | | |_|_|_|_|_|_|/ /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | |/| | | | | | | |   Date:   Fri Oct 9 12:00:01 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Añadir hielos a los materiales
+| | | | | | | | | | | |   
+| | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | |   index 275bcd9..8130dfb 100644
+| | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | |    # Materiales necesarios en orden afabético
+| | | | | | | | | | | |    Carbon
+| | | | | | | | | | | |   +Hielos
+| | | | | | | | | | | |    Mesas
+| | | | | | | | | | | |    Nevera
+| | | | | | | | | | | |    Servilletas
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit a9d0719613d03ee012f2522dadb56464dd28c099
+| | |\ \ \ \ \ \ \ \ \ \  Merge: 1615dc3 22ca5bd
+| | | | |/ / / / / / / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | |/| | | | | | | |   Date:   Fri Oct 9 12:01:20 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Resuelto materiales 2
+| | | | | | | | | | | | 
+| | * | | | | | | | | | commit 1615dc398e992877f2db559a566c21aa1f3428d5
+| | | | | | | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | | | | | | Date:   Fri Oct 9 12:00:07 2026 +0000
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Resuelto materiales
+| | | | | | | | | | | | 
+| | | | | | | | | | | | diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | index cd531dc..995e851 100644
+| | | | | | | | | | | | --- a/materiales.txt
+| | | | | | | | | | | | +++ b/materiales.txt
+| | | | | | | | | | | | @@ -1,6 +1,6 @@
+| | | | | | | | | | | |  # Materiales necesarios en orden afabético
+| | | | | | | | | | | |  Carbon
+| | | | | | | | | | | | +Nitrogeno
+| | | | | | | | | | | |  Sillas
+| | | | | | | | | | | |  Toldo
+| | | | | | | | | | | |  Vasos
+| | | | | | | | | | | | -Nitrogeno
+| | | | | | | | | | | | 
+| | * | | | | | | | | | commit bae48b6548593fb32f47cf1968f27381047bd4b7
+| | | |_|_|_|_|_|/ / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | |/| | | | | | | |   Date:   Fri Oct 9 11:49:55 2026 +0000
+| | | | | | | | | | |   
+| | | | | | | | | | |       Añadido nitrogeno
+| | | | | | | | | | |   
+| | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | |   index 0099183..cd531dc 100644
+| | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | |   @@ -3,3 +3,4 @@ Carbon
+| | | | | | | | | | |    Sillas
+| | | | | | | | | | |    Toldo
+| | | | | | | | | | |    Vasos
+| | | | | | | | | | |   +Nitrogeno
+| | | | | | | | | | | 
+| * | | | | | | | | | commit ea0f51396ae209348f8241660499e05e1b4a1636
+| | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | Date:   Fri Oct 9 12:08:24 2026 +0000
+| | | | | | | | | | | 
+| | | | | | | | | | |     Añado la litrona
+| | | | | | | | | | | 
+| | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | index 462a465..800a9f5 100644
+| | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | @@ -9,4 +9,3 @@ Limonada
+| | | | | | | | | | |  Litrona
+| | | | | | | | | | |  Ron Recompensa
+| | | | | | | | | | |  Zumo de piña
+| | | | | | | | | | | -
+| | | | | | | | | | | 
+| * | | | | | | | | | commit 5472ad3bf7ff6be433f68e5c3c7a120eecb5705e
+| | |/ / / / / / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| |/| | | | | | | |   Date:   Fri Oct 9 12:03:52 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Añado la litrona
+| | | | | | | | | |   
+| | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | |   index ac33c82..462a465 100644
+| | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | |   @@ -1,4 +1,4 @@
+| | | | | | | | | |   -# Bebida para llevar por orden alfabético
+| | | | | | | | | |   ++# Bebida para llevar por orden alfabético
+| | | | | | | | | |    Agua
+| | | | | | | | | |    Coca-cola
+| | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | |   @@ -6,6 +6,7 @@ Cerveza
+| | | | | | | | | |    Coca-cola
+| | | | | | | | | |    Horchata
+| | | | | | | | | |    Limonada
+| | | | | | | | | |   +Litrona
+| | | | | | | | | |    Ron Recompensa
+| | | | | | | | | |    Zumo de piña
+| | | | | | | | | |    
+| | | | | | | | | |   
+| * | | | | | | | |   commit 22ca5bd5bbda938f5b0e8b6adaa8885c8a1b32be
+| |\ \ \ \ \ \ \ \ \  Merge: 2b71dcb 5acef99
+| | | | | | | | | | | Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | | Date:   Fri Oct 9 11:58:57 2026 +0000
+| | | | | | | | | | | 
+| | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | 
+| | * | | | | | | | | commit 5acef99dd21ea2b7e1bb918583df17f695447ce6
+| | | |_|/ / / / / /  Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | |/| | | | | | |   Date:   Fri Oct 9 11:56:29 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Añadir lasaña a la lista de comida
+| | | | | | | | | |   
+| | | | | | | | | |   diff --git a/comida.txt b/comida.txt
+| | | | | | | | | |   index 9846a07..473bff0 100644
+| | | | | | | | | |   --- a/comida.txt
+| | | | | | | | | |   +++ b/comida.txt
+| | | | | | | | | |   @@ -2,6 +2,7 @@
+| | | | | | | | | |    Chuleton
+| | | | | | | | | |    Hamburgesas
+| | | | | | | | | |    Huevos
+| | | | | | | | | |   +Lasaña
+| | | | | | | | | |    Patatas fritas
+| | | | | | | | | |    Pinchitos
+| | | | | | | | | |    Salchicha
+| | | | | | | | | | 
+| * | | | | | | | | commit 2b71dcb5f4626e601d59155074d9f8c1f652f272
+| |\| | | | | | | | Merge: d088876 5dbc745
+| | | | | | | | | | Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | Date:   Fri Oct 9 11:58:44 2026 +0000
+| | | | | | | | | | 
+| | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | |   
+| | * | | | | | | |   commit 5dbc745ac78cda99a06e7f3ac89f2575709d9423
+| | |\ \ \ \ \ \ \ \  Merge: e36f530 3e766f3
+| | | | |/ / / / / /  Author: albertogonza010 <albertogonzalezarroyo2001@gmail.com>
+| | | |/| | | | | |   Date:   Fri Oct 9 11:55:39 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | |   
+| | | * | | | | | |   commit 3e766f364590f018cfc7926168f7eb9d9fed2522
+| | | |\ \ \ \ \ \ \  Merge: d973ce2 0f9aa6f
+| | | | | |_|_|_|/ /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | |   Date:   Fri Oct 9 11:55:13 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Resolver conflicto en materiales.txt con origin/main
+| | | | | | | | | |   
+| | | | * | | | | |   commit 0f9aa6fe1360d7100836d2fe21f3fb746dc325ef
+| | | | |\ \ \ \ \ \  Merge: 7888f04 2604546
+| | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | Date:   Fri Oct 9 11:54:07 2026 +0000
+| | | | | | | | | | | 
+| | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | |   
+| | | | | * | | | | |   commit 260454615cf5a65f8653115bee0ad7ada958e57a
+| | | | | |\ \ \ \ \ \  Merge: 1f5cfe1 7d254c2
+| | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | Date:   Fri Oct 9 11:53:27 2026 +0000
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | | | | * | | | | | |   commit 1f5cfe1f3c0ecd5f7dab190874b6a7e205eb8843
+| | | | | |\ \ \ \ \ \ \  Merge: 1f4c073 26c0f7d
+| | | | | | | |/ / / / /  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | |/| | | | |   Date:   Fri Oct 9 11:53:15 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | | | | * | | | | | |   commit 1f4c073b5694d4bd6d1fa706d49918839e1e74da
+| | | | | |\ \ \ \ \ \ \  Merge: b2e4005 f97fdd0
+| | | | | | | |_|_|_|_|/  Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | |/| | | | |   Date:   Fri Oct 9 11:52:15 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | | | | * | | | | | |   commit b2e40052dbe6157688e3b915ce92024470ec5b76
+| | | | | |\ \ \ \ \ \ \  Merge: 78c7975 e109cd9
+| | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:51:14 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     cambios asistentes
+| | | | | | | | | | | | |   
+| | | | | * | | | | | | |   commit 78c7975ef5cd61ced6a72c7088aa935b63aa5e54
+| | | | | |\ \ \ \ \ \ \ \  Merge: 13f84b0 d140b5a
+| | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:49:53 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Cambios
+| | | | | | | | | | | | | |   
+| | | | | * | | | | | | | |   commit 13f84b04b089ed5be94c9035d758f1230e13a606
+| | | | | |\ \ \ \ \ \ \ \ \  Merge: 519efed fb8e419
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:46:54 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Conflictos resueltos
+| | | | | | | | | | | | | | | 
+| | | | | * | | | | | | | | | commit 519efedd4f9ecd2a51c00c4615c6b84aaaf36e4a
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:38:08 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Mesas añadidas
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | | index 2c1459d..d7e2371 100644
+| | | | | | | | | | | | | | | --- a/materiales.txt
+| | | | | | | | | | | | | | | +++ b/materiales.txt
+| | | | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | | | |  # Materiales necesarios en orden afabético
+| | | | | | | | | | | | | | |  Sillas
+| | | | | | | | | | | | | | | +Mesas
+| | | | | | | | | | | | | | | 
+| | | | | * | | | | | | | | | commit 70b572109ca055556cea3643301f6ca1cb1c2efd
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:37:41 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Agua añadida
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | | index 2a2c5fc..27defc8 100644
+| | | | | | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | | | | | @@ -1,2 +1,4 @@
+| | | | | | | | | | | | | | |  # Bebida para llevar por orden alfabético
+| | | | | | | | | | | | | | | +Agua
+| | | | | | | | | | | | | | |  Coca-cola
+| | | | | | | | | | | | | | | +
+| | | | | | | | | | | | | | | 
+| | | | | * | | | | | | | | | commit 2919e93b76d3a0924d8dec3334839780b9d88a46
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:37:23 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Oca añadida
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | | | | index 3674faa..fa6b3a0 100644
+| | | | | | | | | | | | | | | --- a/juegos.txt
+| | | | | | | | | | | | | | | +++ b/juegos.txt
+| | | | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | | | |  # Juegos propuestos en orden alfabético
+| | | | | | | | | | | | | | | +Oca
+| | | | | | | | | | | | | | |  Uno
+| | | | | | | | | | | | | | | 
+| | | | | * | | | | | | | | | commit 027a6a5a650d3845d3a9db72083a2a9b1e54972c
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:36:51 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     Huevos añadidos
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | | | index 59e3f6d..09aa3e9 100644
+| | | | | | | | | | | | | | | --- a/comida.txt
+| | | | | | | | | | | | | | | +++ b/comida.txt
+| | | | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | | | |  # Comida para llevar por orden alfabético
+| | | | | | | | | | | | | | | +Huevos
+| | | | | | | | | | | | | | |  Patatas fritas
+| | | | | | | | | | | | | | | 
+| | | | | * | | | | | | | | | commit 3582e5be254cb93e569bc5d8008d3a0369b08222
+| | | | | | | | | | | | | | | Author: David Martinez Benjumea <davmarben@alum.us.es>
+| | | | | | | | | | | | | | | Date:   Fri Oct 9 11:36:30 2026 +0000
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | |     David Martinez en la lista de asistentes
+| | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | index f46a391..3aa9e95 100644
+| | | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | | @@ -1,3 +1,4 @@
+| | | | | | | | | | | | | | |  # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | | | | | | | |  # Apellidos, Nombre
+| | | | | | | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | +Martínez Benjumea, David
+| | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | |   commit 7888f04a229e4f9cadb1b642e81d9ec3476024a6
+| | | | |\ \ \ \ \ \ \ \ \ \ \  Merge: 363c2a3 7d254c2
+| | | | | | |_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | |/| | | | | | | | |   Date:   Fri Oct 9 11:54:00 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | |   commit 363c2a378e284e2ae2d9b63d0bbdc60b6a447c44
+| | | | |\ \ \ \ \ \ \ \ \ \ \  Merge: 0d93e10 26c0f7d
+| | | | | | |_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | |/| | | | | | | | |   Date:   Fri Oct 9 11:52:59 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | |   commit 0d93e10a935174ed109c0e2a34c00c690eed6bc7
+| | | | |\ \ \ \ \ \ \ \ \ \ \  Merge: b9c4e11 f97fdd0
+| | | | | | |_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | |/| | | | | | | | |   Date:   Fri Oct 9 11:51:53 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | |   commit b9c4e11e735014adcf8766977853a30192acaa73
+| | | | |\ \ \ \ \ \ \ \ \ \ \  Merge: 378ff9c e109cd9
+| | | | | | |_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | |/| | | | | | | | |   Date:   Fri Oct 9 11:50:18 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | |   commit 378ff9c5df0ea20facf4208d2aed9a6df536497c
+| | | | |\ \ \ \ \ \ \ \ \ \ \  Merge: 072dc28 ebbb587
+| | | | | | | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:49:27 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | | |   commit 072dc286bdcf5b4dcd53b0061a71ee23b8258c58
+| | | | |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 82e67d0 d140b5a
+| | | | | | |_|_|_|_|_|_|/ / / /  Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | |/| | | | | | | | | |   Date:   Fri Oct 9 11:48:48 2026 +0000
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | | |   commit 82e67d00bfdf23b336e9e4e965e56d8312ff17aa
+| | | | |\ \ \ \ \ \ \ \ \ \ \ \  Merge: f23ab63 3c53445
+| | | | | | | | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:48:09 2026 +0000
+| | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | |   
+| | | | * | | | | | | | | | | | |   commit f23ab636a15b73d161323dd1caa6887a0920d040
+| | | | |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 1b4ca89 2db7707
+| | | | | | | | | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:47:45 2026 +0000
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | | 
+| | | | * | | | | | | | | | | | | | commit 1b4ca8922ed75d0d2729283f9e5fa124e567a304
+| | | | | | | | | | | | | | | | | | Author: Alejandro Otero <aleotejim@alum.us.es>
+| | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:45:39 2026 +0000
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Arreglo de conflictos
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | | | | index 4450098..6c3fbc8 100644
+| | | | | | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | | | | | @@ -4,5 +4,6 @@ Afan Saucedo, Manuel
+| | | | | | | | | | | | | | | | | |  Arquer de la Prada, Pelayo
+| | | | | | | | | | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | | | |  Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | | | | | | | +Otero Jiménez, Alejandro
+| | | | | | | | | | | | | | | | | |  Pérez Bazarot, Jesús
+| | | | | | | | | | | | | | | | | |  Presencio de Olmedo, Antonio
+| | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | |   commit d973ce29fd1b6ba4aad8ac6085a5b93ad46e72da
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: c17f3ab 7d254c2
+| | | | | |_|_|_|_|_|_|_|/ / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 11:53:48 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | |   commit c17f3ab30bdca5e2f6e37d6a7ba9675b27655afa
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 9d99865 26c0f7d
+| | | | | |_|_|_|_|_|_|_|/ / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 11:53:12 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | | | | |   
+| | | * | | | | | | | | | | | | | |   commit 9d99865a950e9b547da4f561a507b83388637744
+| | | |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: a424020 f97fdd0
+| | | | | |_|_|_|_|_|_|_|/ / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 11:52:21 2026 +0000
+| | | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | | |       Merge branch 'main' into dev
+| | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | commit a42402012aeca26eea1635ead756a992da91574d
+| | | | | | | | | | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:51:55 2026 +0000
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | |     Añadir mesas, nevera y servilletas a los materiales
+| | | | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | | | diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | | | | | index 0099183..fc41850 100644
+| | | | | | | | | | | | | | | | | | --- a/materiales.txt
+| | | | | | | | | | | | | | | | | | +++ b/materiales.txt
+| | | | | | | | | | | | | | | | | | @@ -1,5 +1,8 @@
+| | | | | | | | | | | | | | | | | |  # Materiales necesarios en orden afabético
+| | | | | | | | | | | | | | | | | |  Carbon
+| | | | | | | | | | | | | | | | | | +Mesas
+| | | | | | | | | | | | | | | | | | +Nevera
+| | | | | | | | | | | | | | | | | | +Servilletas
+| | | | | | | | | | | | | | | | | |  Sillas
+| | | | | | | | | | | | | | | | | |  Toldo
+| | | | | | | | | | | | | | | | | |  Vasos
+| | | | | | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | | | | | commit 353accaee430d944f821d660d34349bd47ff6092
+| | | | |_|_|_|_|_|_|_|/ / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 11:51:35 2026 +0000
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |       Añadir ron Recompensa a las bebidas
+| | | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | | | |   index 348f91a..f691acd 100644
+| | | | | | | | | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | | | | | | | | |   @@ -2,4 +2,5 @@
+| | | | | | | | | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | | | | | | | | |    Coca-cola
+| | | | | | | | | | | | | | | | |    Limonada
+| | | | | | | | | | | | | | | | |   +Ron Recompensa
+| | | | | | | | | | | | | | | | |    Zumo de piña
+| | | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | | commit e36f530e369c99bd9320247597a15980d1bf1183
+| | | |_|_|/ / / / / / / / / / /  Author: albertogonza010 <albertogonzalezarroyo2001@gmail.com>
+| | |/| | | | | | | | | | | | |   Date:   Fri Oct 9 11:54:49 2026 +0000
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |       Me añado a la lista de asistentes
+| | | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | | |   index 0cde96d..1bf73c3 100644
+| | | | | | | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | | | | | | |   @@ -3,6 +3,7 @@
+| | | | | | | | | | | | | | | |    Afan Saucedo, Manuel
+| | | | | | | | | | | | | | | |    Arquer de la Prada, Pelayo
+| | | | | | | | | | | | | | | |    Cruz Ferrer, Tomás
+| | | | | | | | | | | | | | | |   +Gonzalez Arroyo,Alberto
+| | | | | | | | | | | | | | | |    Luque Giráldez, José Rafael
+| | | | | | | | | | | | | | | |    Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | | | | |    Pérez Bazarot, Jesús
+| | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | commit 7d254c2da710dab8eeac60a870fa05bc55015af7
+| | | | | | | | | | | | | | | | Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:43:52 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     fix: arreglo lista bebida
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | | | index e20ed99..a0dac1e 100644
+| | | | | | | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | | | | | | @@ -2,6 +2,7 @@
+| | | | | | | | | | | | | | | |  Aquarius de naranja
+| | | | | | | | | | | | | | | |  Cerveza
+| | | | | | | | | | | | | | | |  Coca-cola
+| | | | | | | | | | | | | | | | +Horchata
+| | | | | | | | | | | | | | | |  Limonada
+| | | | | | | | | | | | | | | |  Zumo de piña
+| | | | | | | | | | | | | | | | -Horchata
+| | | | | | | | | | | | | | | | +
+| | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | commit acc8f419dbb0c5b6195e0378bf103f7dc71b2a31
+| | | | | | | | | | | | | | | | Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | | | | | | | | | | | | | | | Date:   Fri Oct 9 11:38:39 2026 +0000
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | |     Añadir horchata a la lista de bebidaç
+| | | | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | | | index 80a51c8..e20ed99 100644
+| | | | | | | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | | | | | | @@ -4,3 +4,4 @@ Cerveza
+| | | | | | | | | | | | | | | |  Coca-cola
+| | | | | | | | | | | | | | | |  Limonada
+| | | | | | | | | | | | | | | |  Zumo de piña
+| | | | | | | | | | | | | | | | +Horchata
+| | | | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | | | commit 0b3d5046e213e29cb5efb8d1a8914b0064627358
+| | | |_|/ / / / / / / / / / /  Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | |/| | | | | | | | | | | |   Date:   Fri Oct 9 11:18:38 2026 +0000
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |       Añadir nombre y apellido a la lista de asistentes
+| | | | | | | | | | | | | | |   
+| | | | | | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | |   index 1b3ac2b..0cde96d 100644
+| | | | | | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | | | | | |   @@ -10,4 +10,3 @@ Polanco Espino, Mauricio Alexander
+| | | | | | | | | | | | | | |    Presencio de Olmedo, Antonio
+| | | | | | | | | | | | | | |    Rosello Mateo,Kevin Manuel
+| | | | | | | | | | | | | | |    Romero Molina, Marco
+| | | | | | | | | | | | | | |   -
+| | | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | | commit d08887670a42b424be274b1418583a69475a1b23
+| |/ / / / / / / / / / / / /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | |   Date:   Fri Oct 9 11:55:47 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       cuerdas
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | |   index 0099183..4c20246 100644
+| | | | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | | |    # Materiales necesarios en orden afabético
+| | | | | | | | | | | | | |    Carbon
+| | | | | | | | | | | | | |   +Cuerdas
+| | | | | | | | | | | | | |    Sillas
+| | | | | | | | | | | | | |    Toldo
+| | | | | | | | | | | | | |    Vasos
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit 26c0f7da28088596ac517dbfa814fbbcb0cca583
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: f97fdd0 c9785ee
+| | |_|/ / / / / / / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| |/| | | | | | | | | | | |   Date:   Fri Oct 9 11:52:46 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge branch 'dev'
+| | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | commit c9785ee5eece38678b807f2060a98b5f9afbf8d4
+| | | |_|_|_|_|/ / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:51:51 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Añadir cerveza a bebida
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | |   index 348f91a..80a51c8 100644
+| | | | | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | | | | |   @@ -1,5 +1,6 @@
+| | | | | | | | | | | | |    # Bebida para llevar por orden alfabético
+| | | | | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | | | | |   +Cerveza
+| | | | | | | | | | | | |    Coca-cola
+| | | | | | | | | | | | |    Limonada
+| | | | | | | | | | | | |    Zumo de piña
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit f97fdd01217063bb83706a70aea20847167fc74c
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 410cf0e c27a188
+| | | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:51:30 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | commit c27a188991eaf4c96923ed66a9e3709bb4a12daa
+| | | |/ / / / / / / / / /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:51:01 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Monopoli
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | | | | | | | | | |   index 4cccfbe..9144a78 100644
+| | | | | | | | | | | | |   --- a/juegos.txt
+| | | | | | | | | | | | |   +++ b/juegos.txt
+| | | | | | | | | | | | |   @@ -1,3 +1,4 @@
+| | | | | | | | | | | | |    # Juegos propuestos en orden alfabético
+| | | | | | | | | | | | |    Cartas contra la Humanidad
+| | | | | | | | | | | | |    Uno
+| | | | | | | | | | | | |   +Monopoly
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 410cf0e8a55e12edd108309406ab407f2df9f373
+| |\| | | | | | | | | | | Merge: 20290f0 e109cd9
+| | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:50:50 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 20290f09015ad3092cc3f3d7fd0f125ac01fe101
+| | | | | | | | | | | | | Author: Kevin Manuel <ubuntu@mrb1990-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:48:50 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Nombre añadido a asistentes
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | index cf3d7cd..db373b8 100644
+| | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | @@ -6,5 +6,6 @@ Luque Giráldez, José Rafael
+| | | | | | | | | | | | |  Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | |  Pérez Bazarot, Jesús
+| | | | | | | | | | | | |  Presencio de Olmedo, Antonio
+| | | | | | | | | | | | | +Rosello Mateo,Kevin Manuel
+| | | | | | | | | | | | |  Romero Molina, Marco
+| | | | | | | | | | | | | ->>>>>>> 7e05968546fc84970abba6e27a9b68d876d03840
+| | | | | | | | | | | | | +
+| | | | | | | | | | | | |   
+* | | | | | | | | | | | |   commit 1166ac73778e0f57872383c6983071290859ed8b
+|\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: e109cd9 d02cfd8
+| |_|/ / / / / / / / / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+|/| | | | | | | | | | | |   Date:   Fri Oct 9 12:11:49 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Juntar bebida
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit d02cfd894505637ee93d24bfed97800be479d757
+| | | | | | | | | | | | | Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | Date:   Fri Oct 9 12:07:31 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Añadir Cruzcampo
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | index 2a2c5fc..3254a16 100644
+| | | | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | |  # Bebida para llevar por orden alfabético
+| | | | | | | | | | | | |  Coca-cola
+| | | | | | | | | | | | | +Cruzcampo
+| | | | | | | | | | | | |   
+* | | | | | | | | | | | |   commit e109cd96fa706dcacdac0c7fc18cdf2b4a514f78
+|\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 39ab36d ebbb587
+| | |_|/ / / / / / / / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | | | | | | | | |   Date:   Fri Oct 9 11:49:47 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit ebbb58769109c07dc49fe679b68473408e6ccdcc
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 57e5598 d140b5a
+| | | |_|_|_|_|/ / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:48:28 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit 57e5598cad1bb82bf7c3384c8467ce43017a5b9d
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 073cc62 3c53445
+| | | |_|_|_|_|/ / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:48:26 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Añadir nombre a asistentes
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit 073cc62addbcf40538990a3d2f7e553531e61420
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: a82ef76 2db7707
+| | | |_|_|_|_|/ / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:47:19 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit a82ef76aa3d66a65320155a730d7e2d2c3f4aff9
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 06e9877 2fb8e89
+| | | |_|_|_|/ / / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:46:59 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Añadir nombre a asistentes
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit 06e9877141e2c7d5cda8cd1d7e0e324e5701c432
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 0f515c9 7e05968
+| | | |_|_|_|_|/ / / / / /  Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:46:00 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Añadir nombre a asistentes
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit 0f515c92cdd65a03aed6c9a7fa4aaf27668a5fa5
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: 2c94020 cedf00b
+| | | | | | | | | | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:38:26 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'dev'
+| | | | | | | | | | | | | | 
+| | * | | | | | | | | | | | commit cedf00be92d109e421a8c83db0b85be3fb5b48e9
+| | | | | | | | | | | | | | Author: Mauricio Polanco Espino <maupolesp@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:36:53 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Añadir mi nombre asistentes
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | | | index e692284..46ac255 100644
+| | | | | | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | | | | | @@ -5,3 +5,4 @@ Arquer de la Prada, Pelayo
+| | | | | | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | | | | |  Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | | |  Pérez Bazarot, Jesús
+| | | | | | | | | | | | | | +Polanco Espino, Mauricio Alexander
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit 39ab36dd2c05253b5d787e63cbbffe99e064a8a5
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: b3f2d7f d140b5a
+| | |_|_|_|_|_|/ / / / / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | | | | | | | | | |   Date:   Fri Oct 9 11:49:15 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit d140b5aebae3bb389d9394109c161ca8c28f97bc
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 0f88a0f 3c53445
+| | | |_|_|_|_|/ / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | | | | | | | | | |   Date:   Fri Oct 9 11:48:06 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit 0f88a0f7023793fa4f7728aabd84ef49e68b6fcd
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: c220c25 2db7707
+| | | |_|_|_|_|/ / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | | | | | | | | | |   Date:   Fri Oct 9 11:47:51 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Resolver conflicto en materiales.txt con origin/main
+| | | | | | | | | | | | | |   
+| * | | | | | | | | | | | |   commit c220c2593b41d490e81dac822813c3f00af14f1e
+| |\ \ \ \ \ \ \ \ \ \ \ \ \  Merge: 91a2c7c 2fb8e89
+| | | |_|_|_|_|/ / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | | | | | | | | | |   Date:   Fri Oct 9 11:47:00 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge de main en dev resolviendo conflicto en comida.txt
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 91a2c7c7bcc41891c8fb9ef4368d9742caf4f749
+| | | | | | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:37:22 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Añadir limonada a las bebidas
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | | | | | index 2a174f2..a679e41 100644
+| | | | | | | | | | | | | | --- a/bebida.txt
+| | | | | | | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | | | | | | @@ -1,3 +1,4 @@
+| | | | | | | | | | | | | |  # Bebida para llevar por orden alfabético
+| | | | | | | | | | | | | |  Coca-cola
+| | | | | | | | | | | | | | +Limonada
+| | | | | | | | | | | | | |  Zumo de piña
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit b80d2d23bf9e3e93d50015f674e4b252a1936a81
+| | | | | | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:23:10 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Añadir toldo a los materiales
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | | | | index 2c1459d..df6a662 100644
+| | | | | | | | | | | | | | --- a/materiales.txt
+| | | | | | | | | | | | | | +++ b/materiales.txt
+| | | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | | |  # Materiales necesarios en orden afabético
+| | | | | | | | | | | | | |  Sillas
+| | | | | | | | | | | | | | +Toldo
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 9007c7035e18a789d22dde714a3efcb889a7e61b
+| | | | | | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:22:57 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Añadir pinchitos a la comida
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | | index 59e3f6d..1b36c9d 100644
+| | | | | | | | | | | | | | --- a/comida.txt
+| | | | | | | | | | | | | | +++ b/comida.txt
+| | | | | | | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | | | | | | |  # Comida para llevar por orden alfabético
+| | | | | | | | | | | | | |  Patatas fritas
+| | | | | | | | | | | | | | +Pinchitos
+| | | | | | | | | | | | | |   
+* | | | | | | | | | | | | |   commit b3f2d7f13793931c3877b89370e768b316b382db
+|\ \ \ \ \ \ \ \ \ \ \ \ \ \  Merge: a41c892 3c53445
+| | |_|_|/ / / / / / / / / /  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | | | | | | | | | |   Date:   Fri Oct 9 11:47:56 2026 +0000
+| | | | | | | | | | | | | |   
+| | | | | | | | | | | | | |       Merge gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | | 
+| * | | | | | | | | | | | | commit 3c53445f5ae67bc4ca4ac1b12b0ff3dbc6bc1c16
+| | |_|/ / / / / / / / / /  Author: Rafael Luque <jrluqueg@us.es>
+| |/| | | | | | | | | | |   Date:   Fri Oct 9 13:47:45 2026 +0200
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       revert c8368d080182487e2589093cbb0c8be9d90e438e
+| | | | | | | | | | | | |       
+| | | | | | | | | | | | |       revert Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | |   index cf3d7cd..4450098 100644
+| | | | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | | | |   @@ -6,5 +6,3 @@ Luque Giráldez, José Rafael
+| | | | | | | | | | | | |    Orts Arjona, Miguel Ángel
+| | | | | | | | | | | | |    Pérez Bazarot, Jesús
+| | | | | | | | | | | | |    Presencio de Olmedo, Antonio
+| | | | | | | | | | | | |   -Romero Molina, Marco
+| | | | | | | | | | | | |   ->>>>>>> 7e05968546fc84970abba6e27a9b68d876d03840
+| | | | | | | | | | | | |   
+| * | | | | | | | | | | |   commit 2db7707e3e7df5af80c08261d80bce488f09e8f8
+| |\ \ \ \ \ \ \ \ \ \ \ \  Merge: c8368d0 2fb8e89
+| | | |/ / / / / / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |/| | | | | | | | | |   Date:   Fri Oct 9 11:46:32 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | 
+| | * | | | | | | | | | | commit 2fb8e89a3a4abfc467eea36d5de350040fd35aa1
+| | | | | | | | | | | | | Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:45:20 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     salsisa
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | | diff --git a/comida.txt b/comida.txt
+| | | | | | | | | | | | | index c45b3e3..a38f8a9 100644
+| | | | | | | | | | | | | --- a/comida.txt
+| | | | | | | | | | | | | +++ b/comida.txt
+| | | | | | | | | | | | | @@ -2,4 +2,4 @@
+| | | | | | | | | | | | |  Chuleton
+| | | | | | | | | | | | |  Hamburgesas
+| | | | | | | | | | | | |  Patatas fritas
+| | | | | | | | | | | | | -
+| | | | | | | | | | | | | +Salchicha
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit c8368d080182487e2589093cbb0c8be9d90e438e
+| |\| | | | | | | | | | | Merge: 3c3e6ab 5f33eb9
+| | | | | | | | | | | | | Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:44:43 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | |   
+| | * | | | | | | | | | |   commit 5f33eb9f142161792df227125cbe5f98aec259a7
+| | |\ \ \ \ \ \ \ \ \ \ \  Merge: 090b4c2 7e05968
+| | | | |_|_|/ / / / / / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | |   Date:   Fri Oct 9 11:43:35 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Resuelto 2º conflito
+| | | | | | | | | | | | |   
+| | * | | | | | | | | | |   commit 090b4c2f3867fb5fe2ce72054f82dccead6b205d
+| | |\ \ \ \ \ \ \ \ \ \ \  Merge: 088c289 8d49a80
+| | | | | | | | | | | | | | Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | | | | | | | | | | | | Date:   Fri Oct 9 11:36:56 2026 +0000
+| | | | | | | | | | | | | | 
+| | | | | | | | | | | | | |     Merge branch 'dev'
+| | | | | | | | | | | | | | 
+| | | * | | | | | | | | | | commit 8d49a8021964c877b5e7276e761092e7e8387c67
+| | | | |_|_|_|_|_|_|/ / /  Author: Ubuntu <ubuntu@vdy0331-nodo-git.intranet.example.com>
+| | | |/| | | | | | | | |   Date:   Fri Oct 9 11:18:51 2026 +0000
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |       Añadido mi nombre a la lista
+| | | | | | | | | | | | |   
+| | | | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | | | |   index b9775ef..8525c36 100644
+| | | | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | | | |   @@ -2,3 +2,4 @@
+| | | | | | | | | | | | |    # Apellidos, Nombre
+| | | | | | | | | | | | |    Luque Giráldez, José Rafael
+| | | | | | | | | | | | |    Afán Saucedo, Manuel
+| | | | | | | | | | | | |   +Romero Molina, Marco
+| | | | | | | | | | | | | 
+| * | | | | | | | | | | | commit 3c3e6ab3e9a673f5ceacc1a6db4e15227ccb257a
+| | |_|/ / / / / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| |/| | | | | | | | | |   Date:   Fri Oct 9 11:43:09 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Añadir vasos a materiales
+| | | | | | | | | | | |   
+| | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | |   index a905fdb..49bfb6a 100644
+| | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | |   @@ -1,3 +1,4 @@
+| | | | | | | | | | | |    # Materiales necesarios en orden afabético
+| | | | | | | | | | | |    Carbon
+| | | | | | | | | | | |    Sillas
+| | | | | | | | | | | |   +Vasos
+| | | | | | | | | | | | 
+* | | | | | | | | | | | commit a41c892bb1ef0177b822363ce13db4733e700975
+|\| | | | | | | | | | | Merge: 8755952 7e05968
+| | | | | | | | | | | | Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| | | | | | | | | | | | Date:   Fri Oct 9 11:47:47 2026 +0000
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Arreglo1
+| | | | | | | | | | | |   
+| * | | | | | | | | | |   commit 7e05968546fc84970abba6e27a9b68d876d03840
+| |\ \ \ \ \ \ \ \ \ \ \  Merge: d21276d 5f69a13
+| | | |_|_|_|_|_|_|_|_|/  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |/| | | | | | | | |   Date:   Fri Oct 9 11:39:33 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit 5f69a13135319433d8a3aab48081bd06ef504ada
+| | |\ \ \ \ \ \ \ \ \ \  Merge: 4fca610 fb8e419
+| | | | |_|_|_|_|_|_|/ /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | | |/| | | | | | | |   Date:   Fri Oct 9 11:38:45 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit 4fca6104b8e8633038c3dd5aa2464622170208c3
+| | |\ \ \ \ \ \ \ \ \ \  Merge: af52172 ef160fb
+| | | | | | | | | | | | | Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | | | | | | | | | | | | Date:   Fri Oct 9 11:38:30 2026 +0000
+| | | | | | | | | | | | | 
+| | | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | | 
+| | * | | | | | | | | | | commit af5217296221656b18de02d52dc1d1c2b920e28e
+| | | |_|_|_|_|/ / / / /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | |/| | | | | | | | |   Date:   Fri Oct 9 11:38:09 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       update: carbon incluido
+| | | | | | | | | | | |   
+| | | | | | | | | | | |   diff --git a/materiales.txt b/materiales.txt
+| | | | | | | | | | | |   index 2c1459d..a905fdb 100644
+| | | | | | | | | | | |   --- a/materiales.txt
+| | | | | | | | | | | |   +++ b/materiales.txt
+| | | | | | | | | | | |   @@ -1,2 +1,3 @@
+| | | | | | | | | | | |    # Materiales necesarios en orden afabético
+| | | | | | | | | | | |   +Carbon
+| | | | | | | | | | | |    Sillas
+| | | | | | | | | | | |   
+| * | | | | | | | | | |   commit d21276d50becbb60538be381b801e7472d7bfaaf
+| |\ \ \ \ \ \ \ \ \ \ \  Merge: 4406932 fb8e419
+| | | |_|/ / / / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |/| | | | | | | | |   Date:   Fri Oct 9 11:38:57 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit fb8e419a24b98f29667661d9513c5d8d9b7c55f2
+| | |\ \ \ \ \ \ \ \ \ \  Merge: 3c4718d ef160fb
+| | | | |/ / / / / / / /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | |/| | | | | | | |   Date:   Fri Oct 9 11:38:13 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | | 
+| | | * | | | | | | | | commit ef160fb0b9f92e925274a7c92f91fe215f0a2329
+| | | |/ / / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | |   Date:   Fri Oct 9 11:37:22 2026 +0000
+| | | | | | | | | | |   
+| | | | | | | | | | |       Añadir limonada a las bebidas
+| | | | | | | | | | |   
+| | | | | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | | |   index b3c63ed..348f91a 100644
+| | | | | | | | | | |   --- a/bebida.txt
+| | | | | | | | | | |   +++ b/bebida.txt
+| | | | | | | | | | |   @@ -1,4 +1,5 @@
+| | | | | | | | | | |    # Bebida para llevar por orden alfabético
+| | | | | | | | | | |    Aquarius de naranja
+| | | | | | | | | | |    Coca-cola
+| | | | | | | | | | |   +Limonada
+| | | | | | | | | | |    Zumo de piña
+| | | | | | | | | | | 
+| | * | | | | | | | | commit 3c4718dad123410f87459f4069e17ddccfde5ba0
+| | |\| | | | | | | | Merge: 506b3fc 2c94020
+| | | | | | | | | | | Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | | Date:   Fri Oct 9 11:36:20 2026 +0000
+| | | | | | | | | | | 
+| | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | |   
+| | * | | | | | | | |   commit 506b3fc0a038adb59c572cde2e342d1bc43c79ac
+| | |\ \ \ \ \ \ \ \ \  Merge: 21f7656 cd90127
+| | | | | | | | | | | | Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | | | | | | | | | | Date:   Fri Oct 9 11:36:06 2026 +0000
+| | | | | | | | | | | | 
+| | | | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | | |   
+| | * | | | | | | | | |   commit 21f7656c8c825ad2df9ea5e545fcc6166c9f2e70
+| | |\ \ \ \ \ \ \ \ \ \  Merge: 8fae488 088c289
+| | | | |_|/ / / / / / /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | | |/| | | | | | | |   Date:   Fri Oct 9 11:34:16 2026 +0000
+| | | | | | | | | | | |   
+| | | | | | | | | | | |       Presencio
+| | | | | | | | | | | | 
+| | * | | | | | | | | | commit 8fae488d1c6e2f0041cb759edad99166128acf18
+| | | |_|_|_|_|_|_|/ /  Author: Ubuntu <ubuntu@antprede-nodo-git.intranet.example.com>
+| | |/| | | | | | | |   Date:   Fri Oct 9 11:24:54 2026 +0000
+| | | | | | | | | | |   
+| | | | | | | | | | |       Presencio
+| | | | | | | | | | |   
+| | | | | | | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | |   index f46a391..b57ddce 100644
+| | | | | | | | | | |   --- a/asistentes.txt
+| | | | | | | | | | |   +++ b/asistentes.txt
+| | | | | | | | | | |   @@ -1,3 +1,4 @@
+| | | | | | | | | | |    # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | | | |    # Apellidos, Nombre
+| | | | | | | | | | |    Luque Giráldez, José Rafael
+| | | | | | | | | | |   +Presencio de Olmedo, Antonio
+| | | | | | | | | | |   
+| * | | | | | | | | |   commit 440693277026ad5071e560835c3c56589b3c976b
+| |\ \ \ \ \ \ \ \ \ \  Merge: 2c94020 c20e605
+| | |_|_|_|/ / / / / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| |/| | | | | | | | |   Date:   Fri Oct 9 11:37:52 2026 +0000
+| | | | | | | | | | |   
+| | | | | | | | | | |       Merge branch 'dev'
+| | | | | | | | | | | 
+| | * | | | | | | | | commit c20e6055ac7e0ece72c646c556414ad51012c413
+| | | |_|_|_|_|/ / /  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |/| | | | | | |   Date:   Fri Oct 9 11:33:59 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Añadir Chuleton a comida
+| | | | | | | | | |   
+| | | | | | | | | |   diff --git a/comida.txt b/comida.txt
+| | | | | | | | | |   index bb9c6db..c45b3e3 100644
+| | | | | | | | | |   --- a/comida.txt
+| | | | | | | | | |   +++ b/comida.txt
+| | | | | | | | | |   @@ -1,3 +1,5 @@
+| | | | | | | | | |    # Comida para llevar por orden alfabético
+| | | | | | | | | |   +Chuleton
+| | | | | | | | | |    Hamburgesas
+| | | | | | | | | |    Patatas fritas
+| | | | | | | | | |   +
+| | | | | | | | | |   
+| * | | | | | | | |   commit 2c9402023c63ff29ef0f8c42a828f1d0be68de0e
+| |\ \ \ \ \ \ \ \ \  Merge: e37bfc8 cd90127
+| | | |_|_|/ / / / /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | |/| | | | | | |   Date:   Fri Oct 9 11:35:48 2026 +0000
+| | | | | | | | | |   
+| | | | | | | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | 
+| | * | | | | | | | commit cd90127ae0515f6a9a59b37d5b3c1535fa264781
+| | |\| | | | | | | Merge: 0164746 2d819b2
+| | | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | | Date:   Fri Oct 9 11:35:00 2026 +0000
+| | | | | | | | | | 
+| | | | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | | | | 
+| | | * | | | | | | commit 2d819b29f03983a2893c5b6f31d45bab06ac6ff6
+| | | | | | | | | | Author: Miguel Angel Orts Arjona <migortarj@alum.us.es>
+| | | | | | | | | | Date:   Fri Oct 9 11:18:38 2026 +0000
+| | | | | | | | | | 
+| | | | | | | | | |     Añadir nombre y apellido a la lista de asistentes
+| | | | | | | | | | 
+| | | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | | index 218889a..e692284 100644
+| | | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | | @@ -3,4 +3,5 @@
+| | | | | | | | | |  Afan Saucedo, Manuel
+| | | | | | | | | |  Arquer de la Prada, Pelayo
+| | | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | | +Orts Arjona, Miguel Ángel
+| | | | | | | | | |  Pérez Bazarot, Jesús
+| | | | | | | | | |   
+| | * | | | | | | |   commit 0164746d8ac912958e8e023732a08b77b2287bc8
+| | |\ \ \ \ \ \ \ \  Merge: 45b0fac da32397
+| | | |/ / / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | | | / / /   Date:   Fri Oct 9 11:34:32 2026 +0000
+| | | | |_|_|/ / /    
+| | | |/| | | | |         Merge commit 'da32397'
+| | | | | | | | | 
+| | | * | | | | | commit da323970783b063de73af8ad1668e1cfc0296fa3
+| | | | | | | | | Author: Jesus Perez <jesperbaz@alum.us.es>
+| | | | | | | | | Date:   Fri Oct 9 11:22:46 2026 +0000
+| | | | | | | | | 
+| | | | | | | | |     Añadir zumo de piña a las bebidas
+| | | | | | | | | 
+| | | | | | | | | diff --git a/bebida.txt b/bebida.txt
+| | | | | | | | | index 2a2c5fc..2a174f2 100644
+| | | | | | | | | --- a/bebida.txt
+| | | | | | | | | +++ b/bebida.txt
+| | | | | | | | | @@ -1,2 +1,3 @@
+| | | | | | | | |  # Bebida para llevar por orden alfabético
+| | | | | | | | |  Coca-cola
+| | | | | | | | | +Zumo de piña
+| | | | | | | | | 
+| * | | | | | | | commit e37bfc8709d3417597dbe4fa6f37f70b626a2ba3
+| |/ / / / / / /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | | | | | | |   Date:   Fri Oct 9 11:35:27 2026 +0000
+| | | | | | | |   
+| | | | | | | |       update: juego cartas humanidad incluido
+| | | | | | | |   
+| | | | | | | |   diff --git a/juegos.txt b/juegos.txt
+| | | | | | | |   index 3674faa..4cccfbe 100644
+| | | | | | | |   --- a/juegos.txt
+| | | | | | | |   +++ b/juegos.txt
+| | | | | | | |   @@ -1,2 +1,3 @@
+| | | | | | | |    # Juegos propuestos en orden alfabético
+| | | | | | | |   +Cartas contra la Humanidad
+| | | | | | | |    Uno
+| | | | | | | | 
+| * | | | | | | commit 45b0fac97de647e823870a75b805689ef3f34710
+| | |_|/ / / /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| |/| | | | |   Date:   Fri Oct 9 11:32:36 2026 +0000
+| | | | | | |   
+| | | | | | |       update: Hamburgesas añadidas
+| | | | | | |   
+| | | | | | |   diff --git a/comida.txt b/comida.txt
+| | | | | | |   index 59e3f6d..bb9c6db 100644
+| | | | | | |   --- a/comida.txt
+| | | | | | |   +++ b/comida.txt
+| | | | | | |   @@ -1,2 +1,3 @@
+| | | | | | |    # Comida para llevar por orden alfabético
+| | | | | | |   +Hamburgesas
+| | | | | | |    Patatas fritas
+| | | | | | |   
+| * | | | | |   commit 088c289210958c1f0687c4bb221c340ce23690c1
+| |\ \ \ \ \ \  Merge: 6574920 ec2a9ff
+| | | | | | | | Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | | | | | | | Date:   Fri Oct 9 11:30:03 2026 +0000
+| | | | | | | | 
+| | | | | | | |     Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | | | |   
+| | * | | | | |   commit ec2a9fffdda0fe50a20d0d81905097df9e5afe39
+| | |\ \ \ \ \ \  Merge: 95ad36d 483a260
+| | | | | | | | | Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | | | | | | | | Date:   Fri Oct 9 11:28:42 2026 +0000
+| | | | | | | | | 
+| | | | | | | | |     Merge branch 'dev'
+| | | | | | | | | 
+| | | * | | | | | commit 483a2605227713fc277e804f982215b3febe2acf
+| | | | | | | | | Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | | | | | | | | Date:   Fri Oct 9 11:20:21 2026 +0000
+| | | | | | | | | 
+| | | | | | | | |     Ordenar alfabeticamente
+| | | | | | | | | 
+| | | | | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | | | | index 3c297f9..005603a 100644
+| | | | | | | | | --- a/asistentes.txt
+| | | | | | | | | +++ b/asistentes.txt
+| | | | | | | | | @@ -1,4 +1,5 @@
+| | | | | | | | |  # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | | | | |  # Apellidos, Nombre
+| | | | | | | | | +Afan Saucedo, Manuel
+| | | | | | | | |  Arquer de la Prada, Pelayo
+| | | | | | | | |  Luque Giráldez, José Rafael
+| | | | | | | | | 
+| * | | | | | | | commit 6574920752dc297612c61820db70208d8b16df41
+| |/ / / / / / /  Author: Pelayo Arquer <pelarqde@alum.us.es>
+| | | | | | | |   Date:   Fri Oct 9 11:29:45 2026 +0000
+| | | | | | | |   
+| | | | | | | |       update: bebida Aquarius incluida
+| | | | | | | |   
+| | | | | | | |   diff --git a/bebida.txt b/bebida.txt
+| | | | | | | |   index 2a2c5fc..4e8cd58 100644
+| | | | | | | |   --- a/bebida.txt
+| | | | | | | |   +++ b/bebida.txt
+| | | | | | | |   @@ -1,2 +1,3 @@
+| | | | | | | |    # Bebida para llevar por orden alfabético
+| | | | | | | |   +Aquarius de naranja
+| | | | | | | |    Coca-cola
+| | | | | | | |   
+| * | | | | | |   commit 95ad36d6942e4871d7453db85ab82822564c9ddd
+| |\ \ \ \ \ \ \  Merge: f811284 d9375df
+| | |/ / / / / /  Author: Jesus Perez <jesperbaz@alum.us.es>
+| |/| / / / / /   Date:   Fri Oct 9 11:26:28 2026 +0000
+| | |/ / / / /    
+| | | | | | |         Merge commit 'd9375df'
+| | | | | | | 
+| | * | | | | commit d9375df266533cf5c8c984b8fbe5f66373ed54f0
+| | | |_|_|/  Author: Jesus Perez <jesperbaz@alum.us.es>
+| | |/| | |   Date:   Fri Oct 9 11:20:11 2026 +0000
+| | | | | |   
+| | | | | |       Añadir a Jesús Pérez Bazarot a la lista de asistentes
+| | | | | |   
+| | | | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | | | |   index f46a391..2a51a69 100644
+| | | | | |   --- a/asistentes.txt
+| | | | | |   +++ b/asistentes.txt
+| | | | | |   @@ -1,3 +1,4 @@
+| | | | | |    # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | |    # Apellidos, Nombre
+| | | | | |    Luque Giráldez, José Rafael
+| | | | | |   +Pérez Bazarot, Jesús
+| | | | | |   
+* | | | | |   commit 8755952ed8db141922d403334c1dd25c8708e1aa
+|\ \ \ \ \ \  Merge: 9c923b5 22f57cb
+| | |_|_|_|/  Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| |/| | | |   Date:   Fri Oct 9 11:40:27 2026 +0000
+| | | | | |   
+| | | | | |       Merge a main1
+| | | | | | 
+| * | | | | commit 22f57cb083c5edc7c43c902a990ce6e0045e454a
+| | | | | | Author: Tomas Cruz Ferrer <ubuntu@bfs3928-nodo-git.intranet.example.com>
+| | | | | | Date:   Fri Oct 9 11:36:34 2026 +0000
+| | | | | | 
+| | | | | |     Añadirme encima
+| | | | | | 
+| | | | | | diff --git a/asistentes.txt b/asistentes.txt
+| | | | | | index 9b6a387..38911ac 100644
+| | | | | | --- a/asistentes.txt
+| | | | | | +++ b/asistentes.txt
+| | | | | | @@ -1,4 +1,5 @@
+| | | | | |  # Asistentes a la barbacoa por orden alfabético de apellido
+| | | | | |  # Apellidos, Nombre
+| | | | | | +Cruz Ferrer, Tomás
+| | | | | |  Luque Giráldez, José Rafael
+| | | | | | -Cruz Ferrer, Tomas
+| | | | | | +
+| | | | | |   
+* | | | | |   commit 9c923b53481802862d10c4af14b6100a2dede0d4
+|\ \ \ \ \ \  Merge: e9ea931 f811284
+| |/ / / / /  Author: Ubuntu <ubuntu@bfs3928-nodo-git.intranet.example.com>
+|/| / / / /   Date:   Fri Oct 9 11:24:28 2026 +0000
+| |/ / / /    
+| | | | |         Merge gitea.lan:PGPI2627/BarbacoaL3
+| | | | |   
+| * | | |   commit f8112847de230942091dc1f4e45b93cc9f6e10f4
+| |\ \ \ \  Merge: 20864a6 445d2b2
+| | | |/ /  Author: Ubuntu <ubuntu@pelarqde-nodo-git.intranet.example.com>
+| | |/| |   Date:   Fri Oct 9 11:23:48 2026 +0000
+| | | | |   
+| | | | |       Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+| | | | | 
+| | * | | commit 445d2b22db3bdd832c20ab8d5b306261256b6895
+| | | |/  Author: Rafael Luque <jrluqueg@us.es>
+| | |/|   Date:   Fri Oct 9 13:22:58 2026 +0200
+| | | |   
+| | | |       revert 52889622fc1797d9ce051d5aef0ecd1f815d6953
+| | | |       
+| | | |       revert Añadir Manuel Afan Saucedo a asistentes
+| | | |   
+| | | |   diff --git a/asistentes.txt b/asistentes.txt
+| | | |   index b9775ef..f46a391 100644
+| | | |   --- a/asistentes.txt
+| | | |   +++ b/asistentes.txt
+| | | |   @@ -1,4 +1,3 @@
+| | | |    # Asistentes a la barbacoa por orden alfabético de apellido
+| | | |    # Apellidos, Nombre
+| | | |    Luque Giráldez, José Rafael
+| | | |   -Afán Saucedo, Manuel
+| | | | 
+| | * | commit 52889622fc1797d9ce051d5aef0ecd1f815d6953
+| | |/  Author: Manuel Afan Saucedo <manafasau@alum.us.es>
+| | |   Date:   Fri Oct 9 11:17:13 2026 +0000
+| | |   
+| | |       Añadir Manuel Afan Saucedo a asistentes
+| | |   
+| | |   diff --git a/asistentes.txt b/asistentes.txt
+| | |   index f46a391..b9775ef 100644
+| | |   --- a/asistentes.txt
+| | |   +++ b/asistentes.txt
+| | |   @@ -1,3 +1,4 @@
+| | |    # Asistentes a la barbacoa por orden alfabético de apellido
+| | |    # Apellidos, Nombre
+| | |    Luque Giráldez, José Rafael
+| | |   +Afán Saucedo, Manuel
+| | | 
+| * | commit 20864a67a43add9f836cd5005b38e449a1af5a75
+| |/  Author: Ubuntu <ubuntu@pelarqde-nodo-git.intranet.example.com>
+| |   Date:   Fri Oct 9 11:18:31 2026 +0000
+| |   
+| |       wip: Nombre actualizado
+| |   
+| |   diff --git a/asistentes.txt b/asistentes.txt
+| |   index f46a391..3c297f9 100644
+| |   --- a/asistentes.txt
+| |   +++ b/asistentes.txt
+| |   @@ -1,3 +1,4 @@
+| |    # Asistentes a la barbacoa por orden alfabético de apellido
+| |    # Apellidos, Nombre
+| |   +Arquer de la Prada, Pelayo
+| |    Luque Giráldez, José Rafael
+| | 
+* | commit e9ea931e6f2a784c38e1c50ffc41487ed2dea435
+|/  Author: Ubuntu <ubuntu@bfs3928-nodo-git.intranet.example.com>
+|   Date:   Fri Oct 9 11:22:42 2026 +0000
+|   
+|       añadirme
+|   
+|   diff --git a/asistentes.txt b/asistentes.txt
+|   index f46a391..9b6a387 100644
+|   --- a/asistentes.txt
+|   +++ b/asistentes.txt
+|   @@ -1,3 +1,4 @@
+|    # Asistentes a la barbacoa por orden alfabético de apellido
+|    # Apellidos, Nombre
+|    Luque Giráldez, José Rafael
+|   +Cruz Ferrer, Tomas
+| 
+* commit 656d4ea20c3ce4b3460622296e79d965e14369c8
+  Author: Rafael Luque <ubuntu@prof-pgpi.intranet.example.com>
+  Date:   Thu Oct 8 18:44:15 2026 +0000
+  
+      Archivos iniciales
+  
+  diff --git a/README.md b/README.md
+  new file mode 100644
+  index 0000000..fe8840a
+  --- /dev/null
+  +++ b/README.md
+  @@ -0,0 +1,15 @@
+  +# Ejercicio 3. Desarrollo con Git empleando un modelo centralizado
+  +
+  +Organizar una barbacoa con Git empleando un modelo centralizado con una única rama de desarrollo.
+  +
+  +## Objetivo
+  +
+  +- Organizar una barbacoa con Git
+  +- Modelo: centralizado, todos tienen permisos para modificar el repositorio principal.
+  +- Repo inicial con varios archivos:
+  +  - `comida.txt`: comidas a llevar
+  +  - `bebida.txt`: bebidas a llevar
+  +  - `materiales.txt`: materiales necesarios (sillas, mesas, etc.)
+  +  - `asistentes.txt`: lista de personas que van a ir.
+  +  - `juegos.txt`: propuestas de juegos para llevar a la barbacoa.
+  +  - etc.
+  diff --git a/asistentes.txt b/asistentes.txt
+  new file mode 100644
+  index 0000000..f46a391
+  --- /dev/null
+  +++ b/asistentes.txt
+  @@ -0,0 +1,3 @@
+  +# Asistentes a la barbacoa por orden alfabético de apellido
+  +# Apellidos, Nombre
+  +Luque Giráldez, José Rafael
+  diff --git a/bebida.txt b/bebida.txt
+  new file mode 100644
+  index 0000000..2a2c5fc
+  --- /dev/null
+  +++ b/bebida.txt
+  @@ -0,0 +1,2 @@
+  +# Bebida para llevar por orden alfabético
+  +Coca-cola
+  diff --git a/comida.txt b/comida.txt
+  new file mode 100644
+  index 0000000..59e3f6d
+  --- /dev/null
+  +++ b/comida.txt
+  @@ -0,0 +1,2 @@
+  +# Comida para llevar por orden alfabético
+  +Patatas fritas
+  diff --git a/juegos.txt b/juegos.txt
+  new file mode 100644
+  index 0000000..3674faa
+  --- /dev/null
+  +++ b/juegos.txt
+  @@ -0,0 +1,2 @@
+  +# Juegos propuestos en orden alfabético
+  +Uno
+  diff --git a/materiales.txt b/materiales.txt
+  new file mode 100644
+  index 0000000..2c1459d
+  --- /dev/null
+  +++ b/materiales.txt
+  @@ -0,0 +1,2 @@
+  +# Materiales necesarios en orden afabético
+  +Sillas
+=== REFLOG FINAL ===
+e7f5a6e HEAD@{0}: pull: Merge made by the 'ort' strategy.
+fe3e5cb HEAD@{1}: merge dev: Fast-forward
+2be3faa HEAD@{2}: checkout: moving from dev to main
+fe3e5cb HEAD@{3}: commit: Monster mango loco agregado
+2be3faa HEAD@{4}: rebase (finish): returning to refs/heads/dev
+2be3faa HEAD@{5}: rebase (start): checkout main
+66c7a5f HEAD@{6}: checkout: moving from main to dev
+2be3faa HEAD@{7}: pull: Fast-forward
+657dbba HEAD@{8}: pull: Merge made by the 'ort' strategy.
+66c7a5f HEAD@{9}: merge dev: Fast-forward
+a0d4701 HEAD@{10}: checkout: moving from dev to main
+66c7a5f HEAD@{11}: commit: Croquetas de puchero añadidas
+a0d4701 HEAD@{12}: rebase (finish): returning to refs/heads/dev
+a0d4701 HEAD@{13}: rebase (start): checkout main
+f269f5f HEAD@{14}: checkout: moving from main to dev
+a0d4701 HEAD@{15}: pull: Fast-forward
+72d8e22 HEAD@{16}: pull: Merge made by the 'ort' strategy.
+6df31ca HEAD@{17}: pull: Merge made by the 'ort' strategy.
+67ae33f HEAD@{18}: pull: Merge made by the 'ort' strategy.
+8e0af43 HEAD@{19}: pull: Merge made by the 'ort' strategy.
+0d89633 HEAD@{20}: commit (merge): Jenga añadido
+1dfc587 HEAD@{21}: checkout: moving from dev to main
+f269f5f HEAD@{22}: checkout: moving from main to dev
+1dfc587 HEAD@{23}: pull: Fast-forward
+02a9047 HEAD@{24}: checkout: moving from dev to main
+f269f5f HEAD@{25}: commit: Jenga añadido
+02a9047 HEAD@{26}: rebase (finish): returning to refs/heads/dev
+02a9047 HEAD@{27}: rebase (start): checkout main
+0bc4541 HEAD@{28}: checkout: moving from main to dev
+02a9047 HEAD@{29}: pull: Fast-forward
+77208e9 HEAD@{30}: pull: Merge made by the 'ort' strategy.
+80334ad HEAD@{31}: pull: Merge made by the 'ort' strategy.
+b9d4c09 HEAD@{32}: commit (merge): cucharas añadidas
+0bc4541 HEAD@{33}: merge dev: Fast-forward
+5dbc745 HEAD@{34}: checkout: moving from dev to main
+0bc4541 HEAD@{35}: commit: Cucharas añadidas
+5dbc745 HEAD@{36}: checkout: moving from main to dev
+5dbc745 HEAD@{37}: checkout: moving from dev to main
+5dbc745 HEAD@{38}: rebase (finish): returning to refs/heads/dev
+5dbc745 HEAD@{39}: rebase (start): checkout main
+cedf00b HEAD@{40}: checkout: moving from main to dev
+5dbc745 HEAD@{41}: pull origin main: Fast-forward
+3e766f3 HEAD@{42}: pull origin main: Fast-forward
+f97fdd0 HEAD@{43}: pull origin main: Fast-forward
+e109cd9 HEAD@{44}: pull origin main: Fast-forward
+ebbb587 HEAD@{45}: pull origin main: Merge made by the 'ort' strategy.
+57e5598 HEAD@{46}: commit (merge): Añadir nombre a asistentes
+073cc62 HEAD@{47}: pull origin main: Merge made by the 'ort' strategy.
+a82ef76 HEAD@{48}: commit (merge): Añadir nombre a asistentes
+06e9877 HEAD@{49}: commit (merge): Añadir nombre a asistentes
+0f515c9 HEAD@{50}: merge dev: Merge made by the 'ort' strategy.
+2c94020 HEAD@{51}: pull origin main: Fast-forward
+2d819b2 HEAD@{52}: checkout: moving from dev to main
+cedf00b HEAD@{53}: commit: Añadir mi nombre asistentes
+2d819b2 HEAD@{54}: rebase (finish): returning to refs/heads/dev
+2d819b2 HEAD@{55}: rebase (start): checkout main
+95ad36d HEAD@{56}: checkout: moving from main to dev
+2d819b2 HEAD@{57}: pull origin main: Fast-forward
+088c289 HEAD@{58}: checkout: moving from dev to main
+95ad36d HEAD@{59}: checkout: moving from main to dev
+088c289 HEAD@{60}: pull origin main: Fast-forward
+656d4ea HEAD@{61}: checkout: moving from main to main
+656d4ea HEAD@{62}: checkout: moving from dev to main
+95ad36d HEAD@{63}: pull origin main: Fast-forward
+445d2b2 HEAD@{64}: pull origin main: Fast-forward
+5288962 HEAD@{65}: pull origin main: Fast-forward
+656d4ea HEAD@{66}: checkout: moving from main to dev
+656d4ea HEAD@{67}: clone: from gitea.lan:PGPI2627/BarbacoaL3.git
+=== ESTADO FINAL ===
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	informe.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+=== RAMAS ===
+  dev                 fe3e5cb Monster mango loco agregado
+* main                e7f5a6e [origin/main] Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/dev  b4b7643 feat: añadir [Rubio Sánchez, Pablo] a asistentes.txt
+  remotes/origin/main e7f5a6e Merge branch 'main' of gitea.lan:PGPI2627/BarbacoaL3
+=== REMOTOS ===
+origin	gitea@gitea.lan:PGPI2627/BarbacoaL3.git (fetch)
+origin	gitea@gitea.lan:PGPI2627/BarbacoaL3.git (push)
