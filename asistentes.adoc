@@ -31,6 +31,7 @@
 
 * Rafael Luque
 * Antonio Presencio
+* Manuel Afán
 
 ==== Bugatti Chiron(2 plazas)
 
