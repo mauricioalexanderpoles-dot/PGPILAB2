@@ -6,9 +6,11 @@
 === Con alcohol
 
 * Cerveza
+* Vino
 
 === Sin alcohol
 
 * Agua
 * Cerveza sin
+* Coca-Cola
 * Nestea
