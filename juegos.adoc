@@ -2,4 +2,5 @@
 
 // Posibles juegos en grupo, ordenados por orden alfabético
 
+* Baraja española
 * Sogatira
