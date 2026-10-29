@@ -10,6 +10,7 @@
 * Orts Arjona, Miguel Ángel
 * Otero Jiménez, Alejandro
 * Pérez Bazarot, Jesús
+* Polanco Espino, Mauricio
 * Presencio de Olmedo, Antonio
 * Rosello Mateo, Kevin Manuel
 * Romero Molina, Marco
@@ -41,3 +42,4 @@
 ==== Kia Picanto (5 plazas)
 
 * Miguel Ángel Orts Arjona
+* Mauricio Polanco 
