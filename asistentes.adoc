@@ -5,6 +5,7 @@
 
 * Afán Saucedo, Manuel
 * Díaz Ramayo, Antonio Jesús
+* González Arroyo, Alberto
 * Luque Giráldez, José Rafael
 * Martínez Benjumea, David
 * Orts Arjona, Miguel Ángel
@@ -43,3 +44,4 @@
 
 * Miguel Ángel Orts Arjona
 * Mauricio Polanco 
+* Alberto González
