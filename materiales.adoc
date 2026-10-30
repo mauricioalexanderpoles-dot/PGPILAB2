@@ -4,11 +4,13 @@
 
 === Cocina y comida
 
+* Cucharas
 * Tenedores
 
 
 === Mobiliario
 
+* Escritorio
 * Mesas
 * Sillas
 
@@ -16,3 +18,4 @@
 === Diversión
 
 * Radiocassette
+* Videoconsola
