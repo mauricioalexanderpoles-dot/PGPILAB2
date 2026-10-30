@@ -25,6 +25,7 @@
 
 * Antonio Díaz
 * David Martínez
+* Jesús Pérez
 * Marco Romero
 * Pablo Rubio
  
