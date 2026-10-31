@@ -4,6 +4,7 @@
 // Formato: Apellidos, Nombre
 
 * Afán Saucedo, Manuel
+* Cruz Ferrer, Tomás
 * Díaz Ramayo, Antonio Jesús
 * González Arroyo, Alberto
 * Luque Giráldez, José Rafael
@@ -34,6 +35,7 @@
 * Rafael Luque
 * Antonio Presencio
 * Manuel Afán
+* Tomás Cruz Ferrer
 
 ==== Bugatti Chiron(2 plazas)
 
