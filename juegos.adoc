@@ -4,3 +4,4 @@
 
 * Baraja española
 * Sogatira
+* Trivial
