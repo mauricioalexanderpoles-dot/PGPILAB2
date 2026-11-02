@@ -2,6 +2,7 @@
 
 // Posibles juegos en grupo, ordenados por orden alfabético
 
+* Ajedrez
 * Baraja española
 * Puzzle
 * Sogatira
