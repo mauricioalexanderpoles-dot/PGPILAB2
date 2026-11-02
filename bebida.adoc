@@ -6,6 +6,7 @@
 === Con alcohol
 
 * Cerveza
+* Tinto de verano
 * Vino
 
 === Sin alcohol
