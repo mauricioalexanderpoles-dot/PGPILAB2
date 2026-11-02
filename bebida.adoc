@@ -13,5 +13,6 @@
 * Agua
 * Cerveza sin
 * Coca-Cola
+* Fanta
 * Nestea
 * Sunny Delight de naranja
