@@ -3,6 +3,7 @@
 // Posibles juegos en grupo, ordenados por orden alfabético
 
 * Baraja española
+* Parchís
 * Puzzle
 * Sogatira
 * Trivial
