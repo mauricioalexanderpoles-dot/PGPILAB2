@@ -4,6 +4,7 @@
 // Formato: Apellidos, Nombre
 
 * Afán Saucedo, Manuel
+* Arquer de la Prada, Pelayo
 * Cid Romero, Miguel
 * Cruz Ferrer, Tomás
 * Díaz Ramayo, Antonio Jesús
@@ -31,7 +32,7 @@
 * Jesús Pérez
 * Marco Romero
 * Pablo Rubio
- 
+
 ==== Peugeot 508 (5 plazas)
 
 * Rafael Luque
@@ -50,3 +51,4 @@
 * Miguel Ángel Orts Arjona
 * Mauricio Polanco 
 * Alberto González
+* Pelayo Arquer
