@@ -4,6 +4,7 @@
 
 * Ajedrez
 * Baraja española
+* Parchís
 * Puzzle
 * Sogatira
 * Trivial
