@@ -1,0 +1,209 @@
+Mauricio
+mauricioalexanderpoles@gmail.com
+origin	git@gitlab.com:MauricioPoles/barbacoal3.git (fetch)
+origin	git@gitlab.com:MauricioPoles/barbacoal3.git (push)
+upstream	https://gitlab.com/pgpi2627/barbacoaL3.git (fetch)
+upstream	https://gitlab.com/pgpi2627/barbacoaL3.git (push)
+  feat/anadir-asistente    afaf49f feat(asistentes): anadir mi nombre a la lista
+  feat/anadir-bebida       58ab455 feat(bebidas): anadir bebida
+* feat/anadir-localizacion 832d73e Merge branch 'dev' into 'main'
+  feat/anadir-material     b6e6f66 feat(materiales):agregar material
+  main                     832d73e [origin/main: ahead 69] Merge branch 'dev' into 'main'
+  feat/anadir-asistente
+  feat/anadir-bebida
+* feat/anadir-localizacion
+  feat/anadir-material
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feat/anadir-asistente
+  remotes/origin/feat/anadir-bebida
+  remotes/origin/feat/anadir-localizacion
+  remotes/origin/feat/anadir-material
+  remotes/origin/feat/añadir-localización
+  remotes/origin/main
+  remotes/upstream/main
+*   832d73e Merge branch 'dev' into 'main'
+|\  
+| * 1581992 feat(juegos): añadir parchís
+* |   fa40363 Merge branch 'feat-asistentes' into 'main'
+|\ \  
+| * | 2a504dd fix(asistentes): Cambios corregidos en asistentes
+| |/  
+* |   2f73ca5 Merge branch 'asistente' into 'main'
+|\ \  
+| * | 52f6384 docs: Añadir ajedrez a la lista de juegos.adoc
+| |/  
+* |   4aa6cde Merge branch 'feature/comida' into 'main'
+|\ \  
+| |/  
+|/|   
+| * ac69055 feat(comida):añado plato a la lista
+| | * 4aa87bd fea(localizaciones):añadir localizacion
+| |/  
+|/|   
+* |   05c621f Merge branch 'feature/asistencia-fhg7501' into 'main'
+|\ \  
+| * | 3d40973 feat(asistentes): Modificar lista asistentes
+* | |   7ef636f Merge branch 'feature/juegos' into 'main'
+|\ \ \  
+| * | | 2205f2d feat(juegos): añadir propuesta de juego a la lista
+| |/ /  
+* | |   db9b59d Merge branch 'feat/juegos-manuel' into 'main'
+|\ \ \  
+| * | | fe71a97 feat(juegos): añadir trivial
+| |/ /  
+* | |   81ff414 Merge branch 'feat/anadir-material' into 'main'
+|\ \ \  
+| * | | b6e6f66 feat(materiales):agregar material
+| |/ /  
+* | |   b99f73c Merge branch 'feat/bebida-tinto-verano' into 'main'
+|\ \ \  
+| * | | c1ac990 feat(bebida): añadir tinto de verano a las bebidas con alcohol
+| | |/  
+| |/|   
+* | |   bd226a4 Merge branch 'feature/bebidas' into 'main'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 747f99c feat(bebidas):añado Fanta a la lista de bebidas
+| |/  
+* |   84165c5 Merge branch 'feat/anadir-materiales' into 'main'
+|\ \  
+| * | b37ba47 docs(materiales): añadir lista inicial de materiales
+| |/  
+* |   f5b3354 Merge branch 'docs/transporte-jesus' into 'main'
+|\ \  
+| * | 454a724 docs(asistentes): añadir a Jesús Pérez al Renault Clio
+| |/  
+* |   923d9a1 Merge branch 'dev' into 'main'
+|\ \  
+| * | 3a46f6f feat(asistentes): añadir Tomás a asistentes
+| |/  
+* |   3f2147e Merge branch 'feat/comida-manuel' into 'main'
+|\ \  
+| * | 1c33999 feat(comida): añadir solomillo a los platos principales
+| |/  
+* |   b028404 Merge branch 'feat/anadir-bebida' into 'main'
+|\ \  
+| * | 58ab455 feat(bebidas): anadir bebida
+| |/  
+* |   4036dcd Merge branch 'juegos' into 'main'
+|\ \  
+| * | d514d40 feat(juegos.adoc): Añadir baraja española a la lista de juegos
+| |/  
+* |   dde8c2e Merge branch 'feature/asistentes' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 47a300a feat(asistentes):añado mi nombre y datos de transporte
+|/  
+| * e75dddc feat(localizaciones): Añadir localizacion Cerro del Hierro
+|/  
+*   825415f Merge branch 'feat/anadir-asistente' into 'main'
+|\  
+| * afaf49f feat(asistentes): anadir mi nombre a la lista
+|/  
+*   50b5863 Merge branch 'asistente' into 'main'
+|\  
+| * 0b4bb4a docs: Añadir sillas a la lista de mobiliario en materiales.adoc
+* |   4966c13 Merge branch 'feat/anadir-comida' into 'main'
+|\ \  
+| * | 25e32fc feat: añadir comida a la lista
+| |/  
+* |   4606511 Merge branch 'bebidas' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 828b97d fix: Añadir en orden alfabetico Coca-Cola a la lista bebidas.adoc
+|/  
+*   664318c Merge branch 'feature/comida' into 'main'
+|\  
+| * 269af5e feat(comida): añadir propuesta de comida a la lista
+* |   09e17ea Merge branch 'feat/transporte-manuel' into 'main'
+|\ \  
+| * | ecc74b7 feat(transporte): añadir a Manuel Afán al peugeot 508
+| |/  
+* |   e4e9bd1 Merge branch 'feat/anadir-agua-limpio' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 7e9d6b5 feat: añadir agua a la lista de bebidas
+|/  
+*   b9577ac Merge branch 'feat/anadir-vehiculo' into 'main'
+|\  
+| * b1ed07a feat: añadir David a vehículo
+* | e29eaac Merge branch 'feat/anadir-asistente' into 'main'
+|\| 
+| * 87580bd feat: añadir David Martínez a asistentes
+* |   fbef0cd Merge branch 'feat/aportar-comida' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 0b8d156 feat(comida): añadir propuesta de comida para la barbacoa
+|/  
+*   b738397 Merge branch 'feat/anadir-comida' into 'main'
+|\  
+| * 7626614 feat: añadir tarta de queso a la lista de comida
+* |   7787ded Merge branch 'feature/bebidas' into 'main'
+|\ \  
+| * | c3c050e feat(bebidas): añadir propuesta de bebida a la lista
+| |/  
+* |   779dc6f Merge branch 'asistente' into 'main'
+|\ \  
+| |/  
+|/|   
+| * e94b891 fix(asistentes): actualizar fichero asistentes
+|/  
+*   881da73 Merge branch 'asistente' into 'main'
+|\  
+| * 1f4f1a7 fix: Agregar mi nombre y añadirme al vehiculo de Kevin
+* |   9f9df61 Merge branch 'feature/asistentes' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 244a8c5 feat(asistentes): añadir a Pablo Rubio a la lista y transporte
+|/  
+* f04aec4 Edit asistentes.adoc Se reparan errores de formato y orden alfabético
+*   8e43b35 Merge branch 'feat/anadir-asistente' into 'main'
+|\  
+| * 3e3d205 docs(asistentes): modificar asistentes completado
+* |   da3e8a6 Merge branch '3er_intento' into 'main'
+|\ \  
+| |/  
+|/|   
+| * ef5dc90 doc: Pinchto de pollo añadido a comidas
+|/  
+*   bdc1b48 Merge branch 'dept-asistente' into 'main'
+|\  
+| * 358970b fix: Linea en blanco con todos los cambios
+|/  
+*   e2b78be Merge branch 'anadir-kevin' into 'main'
+|\  
+| * 658c2a7 feat: añadir a Kevin a la lista de asistentes
+* |   37c08d5 Merge branch 'dept-asistente' into 'main'
+|\ \  
+| |/  
+|/|   
+| * 29bf5ce fix: Linea en blanco
+|/  
+*   0fd4f48 Merge branch '2do_intento' into 'main'
+|\  
+| * 5cfd4e2 fix: Error solucionado primer merge
+|/  
+*   bd67a70 Merge branch 'feat/asistentes-manuel' into 'main'
+|\  
+| * 768956a feat(asistentes): añadir a Manuel Afán Saucedo
+|/  
+*   8e5ad54 Merge branch 'docs/asistentes-jesus' into 'main'
+|\  
+| * aa95093 docs(asistentes): añadir a Jesús Pérez Bazarot a la lista de asistentes
+|/  
+* 3e33e17 Ficheros iniciales
+* remote upstream
+  Fetch URL: https://gitlab.com/pgpi2627/barbacoaL3.git
+  Push  URL: https://gitlab.com/pgpi2627/barbacoaL3.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local ref configured for 'git push':
+    main pushes to main (local out of date)
